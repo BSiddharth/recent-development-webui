@@ -27,24 +27,7 @@ def feature_page():
 
 
 def venn_diagram_page():
-    # shows ----OR----
-    st.markdown(
-        """
-        <div style="display: flex; align-items: center; margin: 20px 0;">
-            <div style="flex-grow: 1; height: 1px; background: #ccc;"></div>
-            <span style="margin: 0 10px; color: #888; font-weight: bold;">OR</span>
-            <div style="flex-grow: 1; height: 1px; background: #ccc;"></div>
-        </div>
-    """,
-        unsafe_allow_html=True,
-    )
-
-    st.button(
-        "See venn diagrams",
-        type="primary",
-        icon=":material/join_inner:",
-        width="stretch",
-    )
+    pass
 
 
 page_names_to_funcs = {
