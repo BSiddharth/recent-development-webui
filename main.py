@@ -1,4 +1,6 @@
 import streamlit as st
+import os
+import json
 
 
 def feature_page():
@@ -9,25 +11,58 @@ def feature_page():
         "Bone attrition",
         "Osteophytes",
         "Menisci",
-        "Ligaments",
+        "Ligament",
         "Synovitis",
     )
 
-    # UI starts here
     st.title("WORMS GUI", text_alignment="center")
 
-    option = st.selectbox(
+    selected_feature = st.selectbox(
         "Get more info on a feature",
         feature_tuple,
         index=None,
         placeholder="Select feature ...",
     )
 
-    st.write("You selected:", option)
+    if selected_feature:
+        for file in os.listdir("./json data/"):
+            if selected_feature.lower() in file:
+                stats = {
+                    "Unique GO terms": 0,
+                    "Unique Genes found": 0,
+                    "Unique Pathways found": 0,
+                }
+                with open(f"./json data/{file}") as f:
+                    json_data = json.load(f)
+                    stats["Unique GO terms"] = len(set(json_data.keys()))
+                    stats["Unique Genes found"] = len(
+                        set(
+                            gene_info["Gene_symbol"]
+                            for entry in json_data.values()
+                            for gene_info in entry["genes"]
+                        )
+                    )
+                    stats["Unique Pathways found"] = len(
+                        set(
+                            pathway_info["pathway_name"]
+                            for entry in json_data.values()
+                            for pathway_info in entry["pathways"]
+                        )
+                    )
+
+                keys = list(stats.keys())
+                cols = st.columns(3)
+
+                for index, key in enumerate(keys):
+                    col_index = index % 3
+                    with cols[col_index]:
+                        st.metric(label=key, value=stats[key])
+
+                st.json(json_data, expanded=False)
 
 
 def venn_diagram_page():
-    pass
+    st.title("WORMS GUI", text_alignment="center")
 
 
 page_names_to_funcs = {
