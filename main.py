@@ -53,10 +53,11 @@ def feature_page():
                     )
 
                 keys = list(stats.keys())
-                cols = st.columns(3)
+                col_num = 3
+                cols = st.columns(col_num)
 
                 for index, key in enumerate(keys):
-                    col_index = index % 3
+                    col_index = index % col_num
                     with cols[col_index]:
                         st.metric(label=key, value=stats[key])
 
@@ -90,12 +91,13 @@ def venn_diagram_page():
     st.header("Filter out common pathways")
     st.subheader("Choose one or more feature(s)")
 
-    cols = st.columns(2)
+    col_num = 2
+    cols = st.columns(col_num)
 
     checked = {}
 
     for i, opt in enumerate(feature_tuple):
-        with cols[i % 2]:
+        with cols[i % col_num]:
             checked[opt] = st.checkbox(opt)
 
     checked_options = [opt for opt, is_checked in checked.items() if is_checked]
