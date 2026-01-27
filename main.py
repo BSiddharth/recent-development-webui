@@ -1,19 +1,22 @@
+from marsilea.upset import UpsetData
+from marsilea.upset import Upset
 import streamlit as st
 import os
 import json
 
+feature_tuple = (
+    "Cartilage signal and morphology",
+    "Subarticular bonemarrow abnormality",
+    "Subarticular cysts",
+    "Bone attrition",
+    "Osteophytes",
+    "Menisci",
+    "Ligament",
+    "Synovitis",
+)
+
 
 def feature_page():
-    feature_tuple = (
-        "Cartilage signal and morphology",
-        "Subarticular bonemarrow abnormality",
-        "Subarticular cysts",
-        "Bone attrition",
-        "Osteophytes",
-        "Menisci",
-        "Ligament",
-        "Synovitis",
-    )
 
     st.title("WORMS GUI", text_alignment="center")
 
@@ -64,11 +67,29 @@ def feature_page():
 def venn_diagram_page():
     st.title("WORMS GUI", text_alignment="center")
 
+    upset_data = {}
+    for file in os.listdir("./json data/"):
+        for feature in feature_tuple:
+            if '_'.join(feature.split()).lower() in file:
+                with open(f"./json data/{file}") as f:
+                    json_data = json.load(f)
+                    upset_data[feature] = set(
+                        pathway_info["pathway_name"]
+                        for entry in json_data.values()
+                        for pathway_info in entry["pathways"]
+                    )
+
+    data = UpsetData.from_sets(upset_data.values(),sets_names=upset_data.keys())
+    us = Upset(data,add_sets_size=False)
+    st.pyplot(us.render())
+
+    
 
 page_names_to_funcs = {
     "Feature Info": feature_page,
     "Venn Diagram Page": venn_diagram_page,
 }
 
-page_selection = st.sidebar.selectbox("Choose a page", page_names_to_funcs.keys())
+page_selection = st.sidebar.selectbox(
+    "Choose a page", page_names_to_funcs.keys())
 page_names_to_funcs[page_selection]()
