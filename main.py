@@ -26,7 +26,7 @@ def feature_page():
 
     if selected_feature:
         for file in os.listdir("./json data/"):
-            if selected_feature.lower() in file:
+            if '_'.join(selected_feature.split()).lower() in file:
                 stats = {
                     "Unique GO terms": 0,
                     "Unique Genes found": 0,
