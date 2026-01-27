@@ -26,4 +26,4 @@ To see your changes instantly while developing on localhost, enable the Run on S
 ## 📂 Project Structure
 `main.py`: Primary Streamlit application script edit here to change  the UI.
 
-`json data/`: Contains the json data generated beforehand. Make sure the name of the file has the keyword as a substring
+`json data/`: Contains the json data generated beforehand. Make sure the name of the file has the feature name as a substring (To search the feature name is lowercased and '_' are added to replace any space)
