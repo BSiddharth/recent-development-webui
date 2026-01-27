@@ -64,7 +64,7 @@ def feature_page():
                 st.json(json_data, expanded=False)
 
 
-def venn_diagram_page():
+def upset_diagram_page():
     st.title("WORMS GUI", text_alignment="center")
 
     # Create upset plot
@@ -112,7 +112,7 @@ def venn_diagram_page():
 
 page_names_to_funcs = {
     "Feature Info": feature_page,
-    "Venn Diagram Page": venn_diagram_page,
+    "Upset Diagram Page": upset_diagram_page,
 }
 
 page_selection = st.sidebar.selectbox("Choose a page", page_names_to_funcs.keys())
