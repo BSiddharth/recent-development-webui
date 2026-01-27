@@ -17,7 +17,6 @@ feature_tuple = (
 
 
 def feature_page():
-
     st.title("WORMS GUI", text_alignment="center")
 
     selected_feature = st.selectbox(
@@ -29,7 +28,7 @@ def feature_page():
 
     if selected_feature:
         for file in os.listdir("./json data/"):
-            if '_'.join(selected_feature.split()).lower() in file:
+            if "_".join(selected_feature.split()).lower() in file:
                 stats = {
                     "Unique GO terms": 0,
                     "Unique Genes found": 0,
@@ -67,10 +66,11 @@ def feature_page():
 def venn_diagram_page():
     st.title("WORMS GUI", text_alignment="center")
 
+    # Create upset plot
     upset_data = {}
     for file in os.listdir("./json data/"):
         for feature in feature_tuple:
-            if '_'.join(feature.split()).lower() in file:
+            if "_".join(feature.split()).lower() in file:
                 with open(f"./json data/{file}") as f:
                     json_data = json.load(f)
                     upset_data[feature] = set(
@@ -79,18 +79,39 @@ def venn_diagram_page():
                         for pathway_info in entry["pathways"]
                     )
 
-    data = UpsetData.from_sets(
-        upset_data.values(), sets_names=upset_data.keys())
+    data = UpsetData.from_sets(upset_data.values(), sets_names=upset_data.keys())
     us = Upset(data, add_sets_size=False)
     us.render()
     fig = plt.gcf()
     st.pyplot(fig)
+
+    # Option to filter out common pathways
+    st.divider()
+    st.header("Filter out common pathways")
+    st.subheader("Choose one or more feature(s)")
+
+    cols = st.columns(2)
+
+    checked = {}
+
+    for i, opt in enumerate(feature_tuple):
+        with cols[i % 2]:
+            checked[opt] = st.checkbox(opt)
+
+    checked_options = [opt for opt, is_checked in checked.items() if is_checked]
+    if len(checked_options) != 0:
+        common_pathways = set.intersection(
+            *[upset_data[checked_option] for checked_option in checked_options]
+        )
+        common_pathways_len = len(common_pathways)
+        st.write(f"Total common pathways found: {common_pathways_len}")
+        st.write(common_pathways)
+
 
 page_names_to_funcs = {
     "Feature Info": feature_page,
     "Venn Diagram Page": venn_diagram_page,
 }
 
-page_selection = st.sidebar.selectbox(
-    "Choose a page", page_names_to_funcs.keys())
+page_selection = st.sidebar.selectbox("Choose a page", page_names_to_funcs.keys())
 page_names_to_funcs[page_selection]()
