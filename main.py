@@ -18,12 +18,13 @@ feature_tuple = (
 
 def feature_page():
     st.title("WORMS GUI", text_alignment="center")
-
+    st.header("Get more info on a feature")
     selected_feature = st.selectbox(
         "Get more info on a feature",
         feature_tuple,
         index=None,
         placeholder="Select feature ...",
+        label_visibility="collapsed",
     )
 
     if selected_feature:
