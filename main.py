@@ -1,8 +1,8 @@
-from marsilea.upset import UpsetData
-from marsilea.upset import Upset
 import streamlit as st
 import os
 import json
+import matplotlib.pyplot as plt
+from marsilea.upset import Upset, UpsetData
 
 feature_tuple = (
     "Cartilage signal and morphology",
@@ -79,11 +79,12 @@ def venn_diagram_page():
                         for pathway_info in entry["pathways"]
                     )
 
-    data = UpsetData.from_sets(upset_data.values(),sets_names=upset_data.keys())
-    us = Upset(data,add_sets_size=False)
-    st.pyplot(us.render())
-
-    
+    data = UpsetData.from_sets(
+        upset_data.values(), sets_names=upset_data.keys())
+    us = Upset(data, add_sets_size=False)
+    us.render()
+    fig = plt.gcf()
+    st.pyplot(fig)
 
 page_names_to_funcs = {
     "Feature Info": feature_page,
