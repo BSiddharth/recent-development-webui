@@ -1,0 +1,1996 @@
+{
+  "GO:0046849": {
+    "GO_name": "bone remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "DOCK5"
+      },
+      {
+        "Gene_symbol": "EFNA2"
+      },
+      {
+        "Gene_symbol": "EPHA2"
+      },
+      {
+        "Gene_symbol": "GJA1"
+      },
+      {
+        "Gene_symbol": "HERC1"
+      },
+      {
+        "Gene_symbol": "HTR1B"
+      },
+      {
+        "Gene_symbol": "LGR4"
+      },
+      {
+        "Gene_symbol": "LRP5"
+      },
+      {
+        "Gene_symbol": "LTBP3"
+      },
+      {
+        "Gene_symbol": "MITF"
+      },
+      {
+        "Gene_symbol": "NOTCH2"
+      },
+      {
+        "Gene_symbol": "P3H4"
+      },
+      {
+        "Gene_symbol": "RASSF2"
+      },
+      {
+        "Gene_symbol": "SNX10"
+      },
+      {
+        "Gene_symbol": "SPP2"
+      },
+      {
+        "Gene_symbol": "TPH1"
+      },
+      {
+        "Gene_symbol": "TRAF6"
+      },
+      {
+        "Gene_symbol": "WNT16"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signal Transduction",
+        "genes_found": 11
+      }
+    ]
+  },
+  "GO:0034371": {
+    "GO_name": "chylomicron remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "APOA4"
+      },
+      {
+        "Gene_symbol": "APOC2"
+      },
+      {
+        "Gene_symbol": "APOH"
+      },
+      {
+        "Gene_symbol": "LPL"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Chylomicron remodeling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Assembly of active LPL and LIPC lipase complexes",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Retinoid metabolism and transport",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Metabolism of fat-soluble vitamins",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Visual phototransduction",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Chylomicron assembly",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Metabolism of vitamins and cofactors",
+        "genes_found": 3
+      }
+    ]
+  },
+  "GO:0061430": {
+    "GO_name": "bone trabecula morphogenesis",
+    "genes": [
+      {
+        "Gene_symbol": "RHOA"
+      },
+      {
+        "Gene_symbol": "SBNO2"
+      },
+      {
+        "Gene_symbol": "SEMA4D"
+      },
+      {
+        "Gene_symbol": "VEGFA"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Sema4D mediated inhibition of cell attachment and migration",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Sema4D induced cell migration and growth-cone collapse",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Sema4D in semaphorin signaling",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Semaphorin interactions",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Signaling by VEGF",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:0034369": {
+    "GO_name": "plasma lipoprotein particle remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "APOC1"
+      },
+      {
+        "Gene_symbol": "FURIN"
+      },
+      {
+        "Gene_symbol": "PCSK5"
+      },
+      {
+        "Gene_symbol": "PCSK6"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Expression and Processing of Neurotrophins",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "NGF processing",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Assembly of active LPL and LIPC lipase complexes",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Signaling by NTRKs",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Transport of small molecules",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Signaling by NODAL",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:0090318": {
+    "GO_name": "regulation of chylomicron remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "ANGPTL3"
+      },
+      {
+        "Gene_symbol": "ANGPTL4"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Assembly of active LPL and LIPC lipase complexes",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:1903010": {
+    "GO_name": "regulation of bone development",
+    "genes": [
+      {
+        "Gene_symbol": "GLI3"
+      },
+      {
+        "Gene_symbol": "KAT2A"
+      },
+      {
+        "Gene_symbol": "KDR"
+      },
+      {
+        "Gene_symbol": "LOX"
+      },
+      {
+        "Gene_symbol": "TNN"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Extracellular matrix organization",
+        "genes_found": 3
+      }
+    ]
+  },
+  "GO:0036155": {
+    "GO_name": "acylglycerol acyl-chain remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "AWAT2"
+      },
+      {
+        "Gene_symbol": "DGAT2L6"
+      },
+      {
+        "Gene_symbol": "PNPLA2"
+      },
+      {
+        "Gene_symbol": "PNPLA3"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Acyl chain remodeling of DAG and TAG",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Glycerophospholipid biosynthesis",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Phospholipid metabolism",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Metabolism of lipids",
+        "genes_found": 4
+      }
+    ]
+  },
+  "GO:0036151": {
+    "GO_name": "phosphatidylcholine acyl-chain remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "DBI"
+      },
+      {
+        "Gene_symbol": "LPCAT1"
+      },
+      {
+        "Gene_symbol": "LPCAT2"
+      },
+      {
+        "Gene_symbol": "LPCAT3"
+      },
+      {
+        "Gene_symbol": "LPCAT4"
+      },
+      {
+        "Gene_symbol": "MBOAT2"
+      },
+      {
+        "Gene_symbol": "MBOAT7"
+      },
+      {
+        "Gene_symbol": "NR1H2"
+      },
+      {
+        "Gene_symbol": "NR1H3"
+      },
+      {
+        "Gene_symbol": "PLA2G2F"
+      },
+      {
+        "Gene_symbol": "PLA2G4A"
+      },
+      {
+        "Gene_symbol": "PLA2G4B"
+      },
+      {
+        "Gene_symbol": "PLA2G4C"
+      },
+      {
+        "Gene_symbol": "PLB1"
+      },
+      {
+        "Gene_symbol": "TMEM86B"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Acyl chain remodelling of PC",
+        "genes_found": 11
+      },
+      {
+        "pathway_name": "Glycerophospholipid biosynthesis",
+        "genes_found": 12
+      },
+      {
+        "pathway_name": "Phospholipid metabolism",
+        "genes_found": 12
+      },
+      {
+        "pathway_name": "Metabolism of lipids",
+        "genes_found": 15
+      },
+      {
+        "pathway_name": "Metabolism",
+        "genes_found": 15
+      }
+    ]
+  },
+  "GO:0036152": {
+    "GO_name": "phosphatidylethanolamine acyl-chain remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "ABHD4"
+      },
+      {
+        "Gene_symbol": "LPCAT3"
+      },
+      {
+        "Gene_symbol": "LPCAT4"
+      },
+      {
+        "Gene_symbol": "LPGAT1"
+      },
+      {
+        "Gene_symbol": "MBOAT1"
+      },
+      {
+        "Gene_symbol": "MBOAT2"
+      },
+      {
+        "Gene_symbol": "PLA2G2F"
+      },
+      {
+        "Gene_symbol": "PLA2G4B"
+      },
+      {
+        "Gene_symbol": "PLA2G4C"
+      },
+      {
+        "Gene_symbol": "PLAAT2"
+      },
+      {
+        "Gene_symbol": "PLAAT3"
+      },
+      {
+        "Gene_symbol": "PLAAT4"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Acyl chain remodelling of PE",
+        "genes_found": 11
+      },
+      {
+        "pathway_name": "Glycerophospholipid biosynthesis",
+        "genes_found": 12
+      },
+      {
+        "pathway_name": "Phospholipid metabolism",
+        "genes_found": 12
+      },
+      {
+        "pathway_name": "Acyl chain remodelling of PC",
+        "genes_found": 7
+      },
+      {
+        "pathway_name": "Metabolism of lipids",
+        "genes_found": 12
+      },
+      {
+        "pathway_name": "Acyl chain remodelling of PS",
+        "genes_found": 6
+      },
+      {
+        "pathway_name": "Metabolism",
+        "genes_found": 12
+      }
+    ]
+  },
+  "GO:0036150": {
+    "GO_name": "phosphatidylserine acyl-chain remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "LPCAT3"
+      },
+      {
+        "Gene_symbol": "LPCAT4"
+      },
+      {
+        "Gene_symbol": "MBOAT1"
+      },
+      {
+        "Gene_symbol": "MBOAT2"
+      },
+      {
+        "Gene_symbol": "OSBPL10"
+      },
+      {
+        "Gene_symbol": "OSBPL5"
+      },
+      {
+        "Gene_symbol": "OSBPL8"
+      },
+      {
+        "Gene_symbol": "PLA1A"
+      },
+      {
+        "Gene_symbol": "PLA2G2F"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Acyl chain remodelling of PS",
+        "genes_found": 8
+      },
+      {
+        "pathway_name": "Glycerophospholipid biosynthesis",
+        "genes_found": 9
+      },
+      {
+        "pathway_name": "Phospholipid metabolism",
+        "genes_found": 9
+      },
+      {
+        "pathway_name": "Acyl chain remodelling of PE",
+        "genes_found": 5
+      },
+      {
+        "pathway_name": "Metabolism of lipids",
+        "genes_found": 9
+      },
+      {
+        "pathway_name": "Metabolism",
+        "genes_found": 9
+      }
+    ]
+  },
+  "GO:0036148": {
+    "GO_name": "phosphatidylglycerol acyl-chain remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "CRLS1"
+      },
+      {
+        "Gene_symbol": "LPCAT1"
+      },
+      {
+        "Gene_symbol": "LPCAT4"
+      },
+      {
+        "Gene_symbol": "LPGAT1"
+      },
+      {
+        "Gene_symbol": "PLA2G2F"
+      },
+      {
+        "Gene_symbol": "PLA2G4B"
+      },
+      {
+        "Gene_symbol": "PLA2G4D"
+      },
+      {
+        "Gene_symbol": "PLA2G4F"
+      },
+      {
+        "Gene_symbol": "SERAC1"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Acyl chain remodelling of PG",
+        "genes_found": 8
+      },
+      {
+        "pathway_name": "Glycerophospholipid biosynthesis",
+        "genes_found": 8
+      },
+      {
+        "pathway_name": "Acyl chain remodelling of PC",
+        "genes_found": 6
+      },
+      {
+        "pathway_name": "Phospholipid metabolism",
+        "genes_found": 8
+      },
+      {
+        "pathway_name": "Acyl chain remodelling of PS",
+        "genes_found": 5
+      },
+      {
+        "pathway_name": "Acyl chain remodelling of PE",
+        "genes_found": 5
+      },
+      {
+        "pathway_name": "Synthesis of PA",
+        "genes_found": 5
+      },
+      {
+        "pathway_name": "Metabolism of lipids",
+        "genes_found": 8
+      },
+      {
+        "pathway_name": "Metabolism",
+        "genes_found": 8
+      }
+    ]
+  },
+  "GO:0036149": {
+    "GO_name": "phosphatidylinositol acyl-chain remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "AGPAT5"
+      },
+      {
+        "Gene_symbol": "LCLAT1"
+      },
+      {
+        "Gene_symbol": "LPGAT1"
+      },
+      {
+        "Gene_symbol": "MBOAT7"
+      },
+      {
+        "Gene_symbol": "PLA2G4D"
+      },
+      {
+        "Gene_symbol": "PLA2G4E"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Glycerophospholipid biosynthesis",
+        "genes_found": 6
+      },
+      {
+        "pathway_name": "Phospholipid metabolism",
+        "genes_found": 6
+      },
+      {
+        "pathway_name": "Acyl chain remodelling of PI",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Metabolism of lipids",
+        "genes_found": 6
+      },
+      {
+        "pathway_name": "Synthesis of PA",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Metabolism",
+        "genes_found": 6
+      }
+    ]
+  },
+  "GO:0035965": {
+    "GO_name": "cardiolipin acyl-chain remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "HADHA"
+      },
+      {
+        "Gene_symbol": "LCLAT1"
+      },
+      {
+        "Gene_symbol": "PLA2G6"
+      },
+      {
+        "Gene_symbol": "TAFAZZIN"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Acyl chain remodeling of CL",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Glycerophospholipid biosynthesis",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Phospholipid metabolism",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Metabolism of lipids",
+        "genes_found": 4
+      }
+    ]
+  },
+  "GO:0034370": {
+    "GO_name": "triglyceride-rich lipoprotein particle remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "APOA2"
+      },
+      {
+        "Gene_symbol": "APOA5"
+      },
+      {
+        "Gene_symbol": "APOC2"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Chylomicron remodeling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Chylomicron assembly",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Assembly of active LPL and LIPC lipase complexes",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Retinoid metabolism and transport",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Metabolism of fat-soluble vitamins",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Visual phototransduction",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:0034375": {
+    "GO_name": "high-density lipoprotein particle remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "ABCA5"
+      },
+      {
+        "Gene_symbol": "ABCG1"
+      },
+      {
+        "Gene_symbol": "APOA1"
+      },
+      {
+        "Gene_symbol": "APOA2"
+      },
+      {
+        "Gene_symbol": "APOA4"
+      },
+      {
+        "Gene_symbol": "APOC1"
+      },
+      {
+        "Gene_symbol": "APOC3"
+      },
+      {
+        "Gene_symbol": "APOE"
+      },
+      {
+        "Gene_symbol": "APOM"
+      },
+      {
+        "Gene_symbol": "CETP"
+      },
+      {
+        "Gene_symbol": "LCAT"
+      },
+      {
+        "Gene_symbol": "LIPC"
+      },
+      {
+        "Gene_symbol": "LIPG"
+      },
+      {
+        "Gene_symbol": "LPL"
+      },
+      {
+        "Gene_symbol": "PLA2G3"
+      },
+      {
+        "Gene_symbol": "PLTP"
+      },
+      {
+        "Gene_symbol": "PNLIP"
+      },
+      {
+        "Gene_symbol": "PNLIPRP1"
+      },
+      {
+        "Gene_symbol": "PNLIPRP2"
+      },
+      {
+        "Gene_symbol": "PNLIPRP3"
+      },
+      {
+        "Gene_symbol": "SCARB1"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 11
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 12
+      },
+      {
+        "pathway_name": "Transport of small molecules",
+        "genes_found": 13
+      }
+    ]
+  },
+  "GO:1903011": {
+    "GO_name": "negative regulation of bone development",
+    "genes": [
+      {
+        "Gene_symbol": "BGLAP"
+      },
+      {
+        "Gene_symbol": "GGCX"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Gamma-carboxylation of protein precursors",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:0140673": {
+    "GO_name": "transcription elongation-coupled chromatin remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "CDK9"
+      },
+      {
+        "Gene_symbol": "EPOP"
+      },
+      {
+        "Gene_symbol": "GLYR1"
+      },
+      {
+        "Gene_symbol": "IWS1"
+      },
+      {
+        "Gene_symbol": "SART3"
+      },
+      {
+        "Gene_symbol": "SUPT4H1"
+      },
+      {
+        "Gene_symbol": "SUPT6H"
+      },
+      {
+        "Gene_symbol": "USP15"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Formation of RNA Pol II elongation complex ",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "RNA Polymerase II Transcription Elongation",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "RNA Polymerase II Pre-transcription Events",
+        "genes_found": 4
+      }
+    ]
+  },
+  "GO:0045815": {
+    "GO_name": "transcription initiation-coupled chromatin remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "ARID1A"
+      },
+      {
+        "Gene_symbol": "ARID1B"
+      },
+      {
+        "Gene_symbol": "ARID5B"
+      },
+      {
+        "Gene_symbol": "ASH2L"
+      },
+      {
+        "Gene_symbol": "ATAD2"
+      },
+      {
+        "Gene_symbol": "ATAD2B"
+      },
+      {
+        "Gene_symbol": "ATF2"
+      },
+      {
+        "Gene_symbol": "BRD7"
+      },
+      {
+        "Gene_symbol": "CTCFL"
+      },
+      {
+        "Gene_symbol": "DPY30"
+      },
+      {
+        "Gene_symbol": "EP300"
+      },
+      {
+        "Gene_symbol": "EP400P1"
+      },
+      {
+        "Gene_symbol": "FAM47E"
+      },
+      {
+        "Gene_symbol": "GLYR1"
+      },
+      {
+        "Gene_symbol": "HEMK2"
+      },
+      {
+        "Gene_symbol": "KAT2B"
+      },
+      {
+        "Gene_symbol": "KAT7"
+      },
+      {
+        "Gene_symbol": "KAT8"
+      },
+      {
+        "Gene_symbol": "KDM1B"
+      },
+      {
+        "Gene_symbol": "KDM5A"
+      },
+      {
+        "Gene_symbol": "KMT2A"
+      },
+      {
+        "Gene_symbol": "MACROH2A1"
+      },
+      {
+        "Gene_symbol": "MEN1"
+      },
+      {
+        "Gene_symbol": "MYOCD"
+      },
+      {
+        "Gene_symbol": "NOC2L"
+      },
+      {
+        "Gene_symbol": "PADI2"
+      },
+      {
+        "Gene_symbol": "PHF2"
+      },
+      {
+        "Gene_symbol": "PRMT3"
+      },
+      {
+        "Gene_symbol": "RBBP5"
+      },
+      {
+        "Gene_symbol": "RBM14"
+      },
+      {
+        "Gene_symbol": "SGF29"
+      },
+      {
+        "Gene_symbol": "SIRT7"
+      },
+      {
+        "Gene_symbol": "SMARCA4"
+      },
+      {
+        "Gene_symbol": "SMARCB1"
+      },
+      {
+        "Gene_symbol": "SMARCD1"
+      },
+      {
+        "Gene_symbol": "SPHK2"
+      },
+      {
+        "Gene_symbol": "SPI1"
+      },
+      {
+        "Gene_symbol": "TP53"
+      },
+      {
+        "Gene_symbol": "TRMT112"
+      },
+      {
+        "Gene_symbol": "USP21"
+      },
+      {
+        "Gene_symbol": "VPS72"
+      },
+      {
+        "Gene_symbol": "WBP2"
+      },
+      {
+        "Gene_symbol": "WDR5"
+      },
+      {
+        "Gene_symbol": "ZNHIT1"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Chromatin modifying enzymes",
+        "genes_found": 23
+      },
+      {
+        "pathway_name": "Chromatin organization",
+        "genes_found": 23
+      },
+      {
+        "pathway_name": "Gene expression (Transcription)",
+        "genes_found": 22
+      }
+    ]
+  },
+  "GO:0034105": {
+    "GO_name": "positive regulation of tissue remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "IL12B"
+      },
+      {
+        "Gene_symbol": "IL15"
+      },
+      {
+        "Gene_symbol": "IL18"
+      },
+      {
+        "Gene_symbol": "IL2"
+      },
+      {
+        "Gene_symbol": "IL21"
+      },
+      {
+        "Gene_symbol": "IL23A"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signaling by Interleukins",
+        "genes_found": 6
+      },
+      {
+        "pathway_name": "Cytokine Signaling in Immune system",
+        "genes_found": 6
+      },
+      {
+        "pathway_name": "Interleukin-2 family signaling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Interleukin-4 and Interleukin-13 signaling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Immune System",
+        "genes_found": 6
+      }
+    ]
+  },
+  "GO:0034372": {
+    "GO_name": "very-low-density lipoprotein particle remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "APOA4"
+      },
+      {
+        "Gene_symbol": "APOC2"
+      },
+      {
+        "Gene_symbol": "APOE"
+      },
+      {
+        "Gene_symbol": "APOH"
+      },
+      {
+        "Gene_symbol": "CETP"
+      },
+      {
+        "Gene_symbol": "LCAT"
+      },
+      {
+        "Gene_symbol": "LIPC"
+      },
+      {
+        "Gene_symbol": "LPL"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 7
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 7
+      },
+      {
+        "pathway_name": "HDL remodeling",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Chylomicron remodeling",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Assembly of active LPL and LIPC lipase complexes",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Retinoid metabolism and transport",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Metabolism of fat-soluble vitamins",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Transport of small molecules",
+        "genes_found": 7
+      },
+      {
+        "pathway_name": "Visual phototransduction",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Metabolism of vitamins and cofactors",
+        "genes_found": 4
+      }
+    ]
+  },
+  "GO:0097241": {
+    "GO_name": "hematopoietic stem cell migration to bone marrow",
+    "genes": [
+      {
+        "Gene_symbol": "EXT1"
+      },
+      {
+        "Gene_symbol": "GAS6"
+      },
+      {
+        "Gene_symbol": "GPLD1"
+      },
+      {
+        "Gene_symbol": "JAM2"
+      },
+      {
+        "Gene_symbol": "JAM3"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Cell surface interactions at the vascular wall",
+        "genes_found": 3
+      }
+    ]
+  },
+  "GO:0071773": {
+    "GO_name": "cellular response to BMP stimulus",
+    "genes": [
+      {
+        "Gene_symbol": "ACVR1"
+      },
+      {
+        "Gene_symbol": "ACVR2A"
+      },
+      {
+        "Gene_symbol": "ACVRL1"
+      },
+      {
+        "Gene_symbol": "ADAMTS12"
+      },
+      {
+        "Gene_symbol": "ADAMTS7"
+      },
+      {
+        "Gene_symbol": "BMP2"
+      },
+      {
+        "Gene_symbol": "BMP4"
+      },
+      {
+        "Gene_symbol": "BMP6"
+      },
+      {
+        "Gene_symbol": "BMP7"
+      },
+      {
+        "Gene_symbol": "BMPR1A"
+      },
+      {
+        "Gene_symbol": "BMPR1B"
+      },
+      {
+        "Gene_symbol": "BMPR2"
+      },
+      {
+        "Gene_symbol": "COL2A1"
+      },
+      {
+        "Gene_symbol": "DLX1"
+      },
+      {
+        "Gene_symbol": "EXT1"
+      },
+      {
+        "Gene_symbol": "GATA3"
+      },
+      {
+        "Gene_symbol": "GATA5"
+      },
+      {
+        "Gene_symbol": "GATA6"
+      },
+      {
+        "Gene_symbol": "GDF2"
+      },
+      {
+        "Gene_symbol": "HEYL"
+      },
+      {
+        "Gene_symbol": "HJV"
+      },
+      {
+        "Gene_symbol": "MIR30B"
+      },
+      {
+        "Gene_symbol": "NOG"
+      },
+      {
+        "Gene_symbol": "PHOX2B"
+      },
+      {
+        "Gene_symbol": "SCX"
+      },
+      {
+        "Gene_symbol": "SFRP1"
+      },
+      {
+        "Gene_symbol": "SMAD4"
+      },
+      {
+        "Gene_symbol": "SMAD9"
+      },
+      {
+        "Gene_symbol": "SOX9"
+      },
+      {
+        "Gene_symbol": "SPINT1"
+      },
+      {
+        "Gene_symbol": "TMEM100"
+      },
+      {
+        "Gene_symbol": "VSTM2A"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signal Transduction",
+        "genes_found": 16
+      }
+    ]
+  },
+  "GO:0010903": {
+    "GO_name": "negative regulation of very-low-density lipoprotein particle remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "ANGPTL3"
+      },
+      {
+        "Gene_symbol": "ANGPTL4"
+      },
+      {
+        "Gene_symbol": "APOA1"
+      },
+      {
+        "Gene_symbol": "APOA2"
+      },
+      {
+        "Gene_symbol": "APOC3"
+      },
+      {
+        "Gene_symbol": "NR1H4"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 5
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 5
+      },
+      {
+        "pathway_name": "Chylomicron assembly",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Chylomicron remodeling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "PPARA activates gene expression",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Regulation of lipid metabolism by PPARalpha",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Retinoid metabolism and transport",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Metabolism of fat-soluble vitamins",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Transport of small molecules",
+        "genes_found": 5
+      },
+      {
+        "pathway_name": "Visual phototransduction",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Metabolism of vitamins and cofactors",
+        "genes_found": 3
+      }
+    ]
+  },
+  "GO:0010902": {
+    "GO_name": "positive regulation of very-low-density lipoprotein particle remodeling",
+    "genes": [
+      {
+        "Gene_symbol": "APOA5"
+      },
+      {
+        "Gene_symbol": "APOC2"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Chylomicron remodeling",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Assembly of active LPL and LIPC lipase complexes",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Plasma lipoprotein remodeling",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Plasma lipoprotein assembly, remodeling, and clearance",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:0030279": {
+    "GO_name": "negative regulation of ossification",
+    "genes": [
+      {
+        "Gene_symbol": "ACVR1B"
+      },
+      {
+        "Gene_symbol": "ACVR2B"
+      },
+      {
+        "Gene_symbol": "BCL2"
+      },
+      {
+        "Gene_symbol": "BMP3"
+      },
+      {
+        "Gene_symbol": "CALCR"
+      },
+      {
+        "Gene_symbol": "CHSY1"
+      },
+      {
+        "Gene_symbol": "DKK1"
+      },
+      {
+        "Gene_symbol": "DLK1"
+      },
+      {
+        "Gene_symbol": "GDF10"
+      },
+      {
+        "Gene_symbol": "GFRA4"
+      },
+      {
+        "Gene_symbol": "HIF1A"
+      },
+      {
+        "Gene_symbol": "KREMEN1"
+      },
+      {
+        "Gene_symbol": "KREMEN2"
+      },
+      {
+        "Gene_symbol": "LRP4"
+      },
+      {
+        "Gene_symbol": "MDK"
+      },
+      {
+        "Gene_symbol": "MEF2C"
+      },
+      {
+        "Gene_symbol": "NOTCH1"
+      },
+      {
+        "Gene_symbol": "RBPJ"
+      },
+      {
+        "Gene_symbol": "SFRP1"
+      },
+      {
+        "Gene_symbol": "SMAD2"
+      },
+      {
+        "Gene_symbol": "SMAD3"
+      },
+      {
+        "Gene_symbol": "SMAD6"
+      },
+      {
+        "Gene_symbol": "SMAD7"
+      },
+      {
+        "Gene_symbol": "SOST"
+      },
+      {
+        "Gene_symbol": "SOX9"
+      },
+      {
+        "Gene_symbol": "TGFB1"
+      },
+      {
+        "Gene_symbol": "TMEM53"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signal Transduction",
+        "genes_found": 22
+      }
+    ]
+  },
+  "GO:0045778": {
+    "GO_name": "positive regulation of ossification",
+    "genes": [
+      {
+        "Gene_symbol": "ADCY10"
+      },
+      {
+        "Gene_symbol": "BMP2"
+      },
+      {
+        "Gene_symbol": "BMP4"
+      },
+      {
+        "Gene_symbol": "BMPR2"
+      },
+      {
+        "Gene_symbol": "CCN1"
+      },
+      {
+        "Gene_symbol": "CCN3"
+      },
+      {
+        "Gene_symbol": "NELL1"
+      },
+      {
+        "Gene_symbol": "NIPBL"
+      },
+      {
+        "Gene_symbol": "OXT"
+      },
+      {
+        "Gene_symbol": "P2RX7"
+      },
+      {
+        "Gene_symbol": "PTH"
+      },
+      {
+        "Gene_symbol": "PTN"
+      },
+      {
+        "Gene_symbol": "PTPN11"
+      },
+      {
+        "Gene_symbol": "SOX11"
+      },
+      {
+        "Gene_symbol": "TAC1"
+      },
+      {
+        "Gene_symbol": "TACR1"
+      },
+      {
+        "Gene_symbol": "TOB2"
+      },
+      {
+        "Gene_symbol": "WNT10B"
+      },
+      {
+        "Gene_symbol": "WNT5A"
+      },
+      {
+        "Gene_symbol": "ZBTB16"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signal Transduction",
+        "genes_found": 11
+      }
+    ]
+  },
+  "GO:0030510": {
+    "GO_name": "regulation of BMP signaling pathway",
+    "genes": [
+      {
+        "Gene_symbol": "CUL1"
+      },
+      {
+        "Gene_symbol": "FBXL15"
+      },
+      {
+        "Gene_symbol": "FKBP8"
+      },
+      {
+        "Gene_symbol": "FST"
+      },
+      {
+        "Gene_symbol": "FSTL1"
+      },
+      {
+        "Gene_symbol": "FSTL3"
+      },
+      {
+        "Gene_symbol": "FSTL4"
+      },
+      {
+        "Gene_symbol": "FSTL5"
+      },
+      {
+        "Gene_symbol": "HOXA13"
+      },
+      {
+        "Gene_symbol": "ITGA3"
+      },
+      {
+        "Gene_symbol": "NOG"
+      },
+      {
+        "Gene_symbol": "PCSK6"
+      },
+      {
+        "Gene_symbol": "PRMT1"
+      },
+      {
+        "Gene_symbol": "RBX1"
+      },
+      {
+        "Gene_symbol": "RGMA"
+      },
+      {
+        "Gene_symbol": "SFRP4"
+      },
+      {
+        "Gene_symbol": "SKP1"
+      },
+      {
+        "Gene_symbol": "TFAP2B"
+      },
+      {
+        "Gene_symbol": "TWSG1"
+      },
+      {
+        "Gene_symbol": "XIAP"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signal Transduction",
+        "genes_found": 11
+      }
+    ]
+  },
+  "GO:0001502": {
+    "GO_name": "cartilage condensation",
+    "genes": [
+      {
+        "Gene_symbol": "BARX2"
+      },
+      {
+        "Gene_symbol": "BMP1"
+      },
+      {
+        "Gene_symbol": "BMPR1B"
+      },
+      {
+        "Gene_symbol": "CCN2"
+      },
+      {
+        "Gene_symbol": "COL11A1"
+      },
+      {
+        "Gene_symbol": "COL2A1"
+      },
+      {
+        "Gene_symbol": "FGF4"
+      },
+      {
+        "Gene_symbol": "FGF6"
+      },
+      {
+        "Gene_symbol": "MAPK14"
+      },
+      {
+        "Gene_symbol": "MGP"
+      },
+      {
+        "Gene_symbol": "MYCN"
+      },
+      {
+        "Gene_symbol": "MYF5"
+      },
+      {
+        "Gene_symbol": "OTOR"
+      },
+      {
+        "Gene_symbol": "PKD1"
+      },
+      {
+        "Gene_symbol": "SOX5"
+      },
+      {
+        "Gene_symbol": "SOX6"
+      },
+      {
+        "Gene_symbol": "SOX9"
+      },
+      {
+        "Gene_symbol": "TGFB2"
+      },
+      {
+        "Gene_symbol": "THRA"
+      },
+      {
+        "Gene_symbol": "UNCX"
+      },
+      {
+        "Gene_symbol": "WNT7A"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signal Transduction",
+        "genes_found": 11
+      }
+    ]
+  },
+  "GO:0060534": {
+    "GO_name": "trachea cartilage development",
+    "genes": [
+      {
+        "Gene_symbol": "RARA"
+      },
+      {
+        "Gene_symbol": "RARG"
+      },
+      {
+        "Gene_symbol": "SOX9"
+      },
+      {
+        "Gene_symbol": "SRF"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signaling by Nuclear Receptors",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Nuclear Receptor transcription pathway",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Signaling by Retinoic Acid",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Generic Transcription Pathway",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "RNA Polymerase II Transcription",
+        "genes_found": 4
+      },
+      {
+        "pathway_name": "Developmental Biology",
+        "genes_found": 4
+      }
+    ]
+  },
+  "GO:0003422": {
+    "GO_name": "growth plate cartilage morphogenesis",
+    "genes": [
+      {
+        "Gene_symbol": "GUSB"
+      },
+      {
+        "Gene_symbol": "TLR4"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "MPS VII - Sly syndrome",
+        "genes_found": 1
+      }
+    ]
+  },
+  "GO:0061037": {
+    "GO_name": "negative regulation of cartilage development",
+    "genes": [
+      {
+        "Gene_symbol": "CTSK"
+      },
+      {
+        "Gene_symbol": "FRZB"
+      },
+      {
+        "Gene_symbol": "LEP"
+      },
+      {
+        "Gene_symbol": "MIR21"
+      },
+      {
+        "Gene_symbol": "NOG"
+      },
+      {
+        "Gene_symbol": "RARA"
+      },
+      {
+        "Gene_symbol": "RARB"
+      },
+      {
+        "Gene_symbol": "RARG"
+      },
+      {
+        "Gene_symbol": "TGFB2"
+      },
+      {
+        "Gene_symbol": "WNT11"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Developmental Biology",
+        "genes_found": 6
+      }
+    ]
+  },
+  "GO:1902731": {
+    "GO_name": "negative regulation of chondrocyte proliferation",
+    "genes": [
+      {
+        "Gene_symbol": "BMPR1B"
+      },
+      {
+        "Gene_symbol": "BMPR2"
+      },
+      {
+        "Gene_symbol": "CCN3"
+      },
+      {
+        "Gene_symbol": "MIR21"
+      },
+      {
+        "Gene_symbol": "SMAD7"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signaling by BMP",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Signaling by TGFB family members",
+        "genes_found": 3
+      }
+    ]
+  },
+  "GO:0003415": {
+    "GO_name": "chondrocyte hypertrophy",
+    "genes": [
+      {
+        "Gene_symbol": "EXT1"
+      },
+      {
+        "Gene_symbol": "GUSB"
+      },
+      {
+        "Gene_symbol": "MEX3C"
+      },
+      {
+        "Gene_symbol": "SOX9"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Heparan sulfate/heparin (HS-GAG) metabolism",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:0002051": {
+    "GO_name": "osteoblast fate commitment",
+    "genes": [
+      {
+        "Gene_symbol": "RUNX2"
+      },
+      {
+        "Gene_symbol": "SMAD1"
+      },
+      {
+        "Gene_symbol": "SMAD5"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Signaling by BMP",
+        "genes_found": 2
+      },
+      {
+        "pathway_name": "Signaling by TGFB family members",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:2001204": {
+    "GO_name": "regulation of osteoclast development",
+    "genes": [
+      {
+        "Gene_symbol": "NOTCH2"
+      },
+      {
+        "Gene_symbol": "SIGLEC15"
+      },
+      {
+        "Gene_symbol": "TYROBP"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "DAP12 interactions",
+        "genes_found": 2
+      }
+    ]
+  },
+  "GO:0090290": {
+    "GO_name": "positive regulation of osteoclast proliferation",
+    "genes": [
+      {
+        "Gene_symbol": "NMB"
+      },
+      {
+        "Gene_symbol": "NMBR"
+      },
+      {
+        "Gene_symbol": "OCSTAMP"
+      },
+      {
+        "Gene_symbol": "PTH"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "GPCR ligand binding",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "GPCR downstream signalling",
+        "genes_found": 3
+      },
+      {
+        "pathway_name": "Signaling by GPCR",
+        "genes_found": 3
+      }
+    ]
+  },
+  "GO:0045672": {
+    "GO_name": "positive regulation of osteoclast differentiation",
+    "genes": [
+      {
+        "Gene_symbol": "CCR1"
+      },
+      {
+        "Gene_symbol": "CORO1C"
+      },
+      {
+        "Gene_symbol": "CREB1"
+      },
+      {
+        "Gene_symbol": "CSF1"
+      },
+      {
+        "Gene_symbol": "DLK1"
+      },
+      {
+        "Gene_symbol": "EEIG1"
+      },
+      {
+        "Gene_symbol": "FOS"
+      },
+      {
+        "Gene_symbol": "IFNG"
+      },
+      {
+        "Gene_symbol": "IL12B"
+      },
+      {
+        "Gene_symbol": "IL17A"
+      },
+      {
+        "Gene_symbol": "IL20"
+      },
+      {
+        "Gene_symbol": "IL23A"
+      },
+      {
+        "Gene_symbol": "IL23R"
+      },
+      {
+        "Gene_symbol": "KLF10"
+      },
+      {
+        "Gene_symbol": "NEDD9"
+      },
+      {
+        "Gene_symbol": "NOTCH2"
+      },
+      {
+        "Gene_symbol": "OCSTAMP"
+      },
+      {
+        "Gene_symbol": "POU4F1"
+      },
+      {
+        "Gene_symbol": "POU4F2"
+      },
+      {
+        "Gene_symbol": "PPARGC1B"
+      },
+      {
+        "Gene_symbol": "PPP3CA"
+      },
+      {
+        "Gene_symbol": "RPTOR"
+      },
+      {
+        "Gene_symbol": "TM4SF19"
+      },
+      {
+        "Gene_symbol": "TMEM64"
+      },
+      {
+        "Gene_symbol": "TNF"
+      },
+      {
+        "Gene_symbol": "TNFRSF11A"
+      },
+      {
+        "Gene_symbol": "TNFSF11"
+      },
+      {
+        "Gene_symbol": "TRAF6"
+      },
+      {
+        "Gene_symbol": "TREM2"
+      }
+    ],
+    "pathways": [
+      {
+        "pathway_name": "Immune System",
+        "genes_found": 15
+      }
+    ]
+  }
+}
