@@ -1,0 +1,312 @@
+{
+    "GO:0030279 | negative regulation of ossification": {
+        "GO_name": "negative regulation of ossification",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ACVR1B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ACVR2B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "DKK1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "DLK1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HIF1A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "KREMEN1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "KREMEN2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MDK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MEF2C"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "NOTCH1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "RBPJ"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SFRP1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SMAD2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SMAD3"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SMAD6"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SMAD7"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SOST"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SOX9"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "ACVR1B",
+                    "ACVR2B",
+                    "DKK1",
+                    "DLK1",
+                    "HIF1A",
+                    "KREMEN1",
+                    "KREMEN2",
+                    "MDK",
+                    "MEF2C",
+                    "NOTCH1",
+                    "RBPJ",
+                    "SFRP1",
+                    "SMAD2",
+                    "SMAD3",
+                    "SMAD6",
+                    "SMAD7",
+                    "SOST",
+                    "SOX9"
+                ]
+            }
+        ]
+    },
+    "GO:0045672 | positive regulation of osteoclast differentiation": {
+        "GO_name": "positive regulation of osteoclast differentiation",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CCR1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CSF1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IFNG"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL12B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL17A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL23A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL23R"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PPP3CA"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNF"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNFRSF11A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNFSF11"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TRAF6"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TREM2"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Immune System",
+                "genes_found": [
+                    "CCR1",
+                    "CSF1",
+                    "IFNG",
+                    "IL12B",
+                    "IL17A",
+                    "IL23A",
+                    "IL23R",
+                    "PPP3CA",
+                    "TNF",
+                    "TNFRSF11A",
+                    "TNFSF11",
+                    "TRAF6",
+                    "TREM2"
+                ]
+            }
+        ]
+    },
+    "GO:0060350 | endochondral bone morphogenesis": {
+        "GO_name": "endochondral bone morphogenesis",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "BMPR1B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "BMPR2"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Bone morphogenic protein signaling and regulation",
+                "genes_found": [
+                    "BMPR1B",
+                    "BMPR2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by BMP",
+                "genes_found": [
+                    "BMPR1B",
+                    "BMPR2"
+                ]
+            },
+            {
+                "pathway_name": "Axon guidance",
+                "genes_found": [
+                    "BMPR1B",
+                    "BMPR2"
+                ]
+            },
+            {
+                "pathway_name": "Embryonic stem cell pluripotency pathways",
+                "genes_found": [
+                    "BMPR1B",
+                    "BMPR2"
+                ]
+            },
+            {
+                "pathway_name": "Osteoblast differentiation and related diseases",
+                "genes_found": [
+                    "BMPR1B",
+                    "BMPR2"
+                ]
+            },
+            {
+                "pathway_name": "Primary ovarian insufficiency",
+                "genes_found": [
+                    "BMPR1B",
+                    "BMPR2"
+                ]
+            }
+        ]
+    },
+    "GO:0071864 | positive regulation of cell proliferation in bone marrow": {
+        "GO_name": "positive regulation of cell proliferation in bone marrow",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HMGA2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "LEF1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SHC1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Influence of laminopathies on Wnt signaling",
+                "genes_found": [
+                    "HMGA2",
+                    "LEF1"
+                ]
+            },
+            {
+                "pathway_name": "Overlap between signal transduction pathways contributing to LMNA laminopathies",
+                "genes_found": [
+                    "HMGA2",
+                    "LEF1"
+                ]
+            },
+            {
+                "pathway_name": "Hallmark of cancer sustaining proliferative signaling",
+                "genes_found": [
+                    "LEF1",
+                    "SHC1"
+                ]
+            },
+            {
+                "pathway_name": "DNA damage response only ATM dependent ",
+                "genes_found": [
+                    "LEF1",
+                    "SHC1"
+                ]
+            }
+        ]
+    },
+    "GO:0097241 | hematopoietic stem cell migration to bone marrow": {
+        "GO_name": "hematopoietic stem cell migration to bone marrow",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "GAS6"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "JAM2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "JAM3"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Cell surface interactions at the vascular wall",
+                "genes_found": [
+                    "GAS6",
+                    "JAM2",
+                    "JAM3"
+                ]
+            }
+        ]
+    }
+}

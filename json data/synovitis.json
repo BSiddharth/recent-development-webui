@@ -1,0 +1,1309 @@
+{
+    "GO:0001819 | positive regulation of cytokine production": {
+        "GO_name": "positive regulation of cytokine production",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "AGER"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "AGPAT2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "BATF"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "BCL10"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "BTN3A1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CARD9"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CD14"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CD160"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CD28"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CLEC4E"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CLEC5A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CLEC6A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CRTAM"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "EIF2AK2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FADD"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FGR"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "GLMN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HAVCR2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IFI16"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IFNG"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL10"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL15"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL17F"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL1A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL1B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL21"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL26"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL33"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IRAK3"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IRF3"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ITK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "JAK2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MIF"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "NFAM1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "NOD1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PIK3CD"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "RIPK2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SAA1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SLC11A1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SOD1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TLR9"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNF"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNFSF4"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TXK"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Immune System",
+                "genes_found": [
+                    "AGER",
+                    "AGPAT2",
+                    "BATF",
+                    "BCL10",
+                    "BTN3A1",
+                    "CARD9",
+                    "CD14",
+                    "CD160",
+                    "CD28",
+                    "CLEC4E",
+                    "CLEC5A",
+                    "CLEC6A",
+                    "CRTAM",
+                    "EIF2AK2",
+                    "FADD",
+                    "FGR",
+                    "GLMN",
+                    "HAVCR2",
+                    "IFI16",
+                    "IFNG",
+                    "IL10",
+                    "IL15",
+                    "IL17F",
+                    "IL1A",
+                    "IL1B",
+                    "IL21",
+                    "IL26",
+                    "IL33",
+                    "IRAK3",
+                    "IRF3",
+                    "ITK",
+                    "JAK2",
+                    "MIF",
+                    "NFAM1",
+                    "NOD1",
+                    "PIK3CD",
+                    "RIPK2",
+                    "SAA1",
+                    "SLC11A1",
+                    "SOD1",
+                    "TLR9",
+                    "TNF",
+                    "TNFSF4",
+                    "TXK"
+                ]
+            }
+        ]
+    },
+    "GO:0002246 | wound healing involved in inflammatory response": {
+        "GO_name": "wound healing involved in inflammatory response",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HMOX1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TLR4"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Heme signaling",
+                "genes_found": [
+                    "HMOX1",
+                    "TLR4"
+                ]
+            },
+            {
+                "pathway_name": "COVID 19 and endothelial cell senescence",
+                "genes_found": [
+                    "TLR4"
+                ]
+            }
+        ]
+    },
+    "GO:0002248 | connective tissue replacement involved in inflammatory response wound healing": {
+        "GO_name": "connective tissue replacement involved in inflammatory response wound healing",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "F2R"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HIF1A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TGFB1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Angiotensin II receptor type 1 pathway",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "Type 2 papillary renal cell carcinoma",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "Neovascularization processes",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "Hepatitis C and hepatocellular carcinoma",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "3q29 copy number variation syndrome",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "Th17 cell differentiation pathway",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "Cancer pathways",
+                "genes_found": [
+                    "F2R",
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "Clear cell renal cell carcinoma pathways",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            },
+            {
+                "pathway_name": "Adipogenesis",
+                "genes_found": [
+                    "HIF1A",
+                    "TGFB1"
+                ]
+            }
+        ]
+    },
+    "GO:0002523 | leukocyte migration involved in inflammatory response": {
+        "GO_name": "leukocyte migration involved in inflammatory response",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ADAM8"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ALOX5"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CCR6"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ELANE"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ITGB2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "S100A8"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "S100A9"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Neutrophil degranulation",
+                "genes_found": [
+                    "ADAM8",
+                    "ALOX5",
+                    "ELANE",
+                    "ITGB2",
+                    "S100A8",
+                    "S100A9"
+                ]
+            },
+            {
+                "pathway_name": "Innate Immune System",
+                "genes_found": [
+                    "ADAM8",
+                    "ALOX5",
+                    "CCR6",
+                    "ELANE",
+                    "ITGB2",
+                    "S100A8",
+                    "S100A9"
+                ]
+            }
+        ]
+    },
+    "GO:0002690 | positive regulation of leukocyte chemotaxis": {
+        "GO_name": "positive regulation of leukocyte chemotaxis",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ADAM17"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CXCL10"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "EDN2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "EDN3"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "F2RL1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL6"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL6R"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MDK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PTN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "XCL1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "ADAM17",
+                    "CXCL10",
+                    "EDN2",
+                    "EDN3",
+                    "F2RL1",
+                    "IL6",
+                    "IL6R",
+                    "MDK",
+                    "PTN",
+                    "XCL1"
+                ]
+            }
+        ]
+    },
+    "GO:0002719 | negative regulation of cytokine production involved in immune response": {
+        "GO_name": "negative regulation of cytokine production involved in immune response",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "APOA1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "APOA2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IL10"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNF"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Network map of SARS CoV 2 signaling",
+                "genes_found": [
+                    "APOA1",
+                    "APOA2",
+                    "IL10",
+                    "TNF"
+                ]
+            },
+            {
+                "pathway_name": "Nuclear receptors meta pathway",
+                "genes_found": [
+                    "APOA1",
+                    "APOA2",
+                    "TNF"
+                ]
+            }
+        ]
+    },
+    "GO:0002724 | regulation of T cell cytokine production": {
+        "GO_name": "regulation of T cell cytokine production",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CCR2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNFRSF1B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TRPM4"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Interleukin-10 signaling",
+                "genes_found": [
+                    "CCR2",
+                    "TNFRSF1B"
+                ]
+            },
+            {
+                "pathway_name": "Neuroinflammation and glutamatergic signaling",
+                "genes_found": [
+                    "TNFRSF1B",
+                    "TRPM4"
+                ]
+            }
+        ]
+    },
+    "GO:0002726 | positive regulation of T cell cytokine production": {
+        "GO_name": "positive regulation of T cell cytokine production",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "B2M"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CD55"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HLA-A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MALT1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MAP3K7"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TNFSF4"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TRAF2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TRAF6"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Cytokine Signaling in Immune system",
+                "genes_found": [
+                    "B2M",
+                    "HLA-A",
+                    "MAP3K7",
+                    "TNFSF4",
+                    "TRAF2",
+                    "TRAF6"
+                ]
+            },
+            {
+                "pathway_name": "Immune System",
+                "genes_found": [
+                    "B2M",
+                    "CD55",
+                    "HLA-A",
+                    "MALT1",
+                    "MAP3K7",
+                    "TNFSF4",
+                    "TRAF2",
+                    "TRAF6"
+                ]
+            },
+            {
+                "pathway_name": "Innate Immune System",
+                "genes_found": [
+                    "B2M",
+                    "CD55",
+                    "MALT1",
+                    "MAP3K7",
+                    "TRAF2",
+                    "TRAF6"
+                ]
+            }
+        ]
+    },
+    "GO:0002729 | positive regulation of natural killer cell cytokine production": {
+        "GO_name": "positive regulation of natural killer cell cytokine production",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CD160"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "CD226"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HLA-E"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HLA-F"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HLA-G"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "KIR2DL4"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+                "genes_found": [
+                    "CD160",
+                    "CD226",
+                    "HLA-E",
+                    "HLA-F",
+                    "HLA-G",
+                    "KIR2DL4"
+                ]
+            },
+            {
+                "pathway_name": "TAR syndrome",
+                "genes_found": [
+                    "CD160",
+                    "HLA-E",
+                    "HLA-F",
+                    "HLA-G"
+                ]
+            },
+            {
+                "pathway_name": "Adaptive Immune System",
+                "genes_found": [
+                    "CD160",
+                    "CD226",
+                    "HLA-E",
+                    "HLA-F",
+                    "HLA-G",
+                    "KIR2DL4"
+                ]
+            }
+        ]
+    },
+    "GO:0002862 | negative regulation of inflammatory response to antigenic stimulus": {
+        "GO_name": "negative regulation of inflammatory response to antigenic stimulus",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FGR"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FURIN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FYN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "GNAS"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HCK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "LYN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MAPK14"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PLCG1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PLK2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PRKAR1A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PRKAR1B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PRKAR2A"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PRKAR2B"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PSMA1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "PSMB4"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "RHBDF2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SRC"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SYK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "YES1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Leishmania parasite growth and survival",
+                "genes_found": [
+                    "FGR",
+                    "FURIN",
+                    "FYN",
+                    "GNAS",
+                    "HCK",
+                    "LYN",
+                    "MAPK14",
+                    "PLCG1",
+                    "PLK2",
+                    "PRKAR1A",
+                    "PRKAR1B",
+                    "PRKAR2A",
+                    "PRKAR2B",
+                    "RHBDF2",
+                    "SYK",
+                    "YES1"
+                ]
+            },
+            {
+                "pathway_name": "Anti-inflammatory response favouring Leishmania parasite infection",
+                "genes_found": [
+                    "FGR",
+                    "FURIN",
+                    "FYN",
+                    "GNAS",
+                    "HCK",
+                    "LYN",
+                    "MAPK14",
+                    "PLCG1",
+                    "PLK2",
+                    "PRKAR1A",
+                    "PRKAR1B",
+                    "PRKAR2A",
+                    "PRKAR2B",
+                    "RHBDF2",
+                    "SYK",
+                    "YES1"
+                ]
+            },
+            {
+                "pathway_name": "Leishmania infection",
+                "genes_found": [
+                    "FGR",
+                    "FURIN",
+                    "FYN",
+                    "GNAS",
+                    "HCK",
+                    "LYN",
+                    "MAPK14",
+                    "PLCG1",
+                    "PLK2",
+                    "PRKAR1A",
+                    "PRKAR1B",
+                    "PRKAR2A",
+                    "PRKAR2B",
+                    "RHBDF2",
+                    "SYK",
+                    "YES1"
+                ]
+            },
+            {
+                "pathway_name": "Parasitic Infection Pathways",
+                "genes_found": [
+                    "FGR",
+                    "FURIN",
+                    "FYN",
+                    "GNAS",
+                    "HCK",
+                    "LYN",
+                    "MAPK14",
+                    "PLCG1",
+                    "PLK2",
+                    "PRKAR1A",
+                    "PRKAR1B",
+                    "PRKAR2A",
+                    "PRKAR2B",
+                    "RHBDF2",
+                    "SYK",
+                    "YES1"
+                ]
+            },
+            {
+                "pathway_name": "Infectious disease",
+                "genes_found": [
+                    "FGR",
+                    "FURIN",
+                    "FYN",
+                    "GNAS",
+                    "HCK",
+                    "LYN",
+                    "MAPK14",
+                    "PLCG1",
+                    "PLK2",
+                    "PRKAR1A",
+                    "PRKAR1B",
+                    "PRKAR2A",
+                    "PRKAR2B",
+                    "PSMA1",
+                    "PSMB4",
+                    "RHBDF2",
+                    "SRC",
+                    "SYK",
+                    "YES1"
+                ]
+            },
+            {
+                "pathway_name": "Disease",
+                "genes_found": [
+                    "FGR",
+                    "FURIN",
+                    "FYN",
+                    "GNAS",
+                    "HCK",
+                    "LYN",
+                    "MAPK14",
+                    "PLCG1",
+                    "PLK2",
+                    "PRKAR1A",
+                    "PRKAR1B",
+                    "PRKAR2A",
+                    "PRKAR2B",
+                    "PSMA1",
+                    "PSMB4",
+                    "RHBDF2",
+                    "SRC",
+                    "SYK",
+                    "YES1"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "FURIN",
+                    "FYN",
+                    "GNAS",
+                    "LYN",
+                    "MAPK14",
+                    "PLCG1",
+                    "PRKAR1A",
+                    "PRKAR1B",
+                    "PRKAR2A",
+                    "PRKAR2B",
+                    "PSMA1",
+                    "PSMB4",
+                    "SRC",
+                    "SYK",
+                    "YES1"
+                ]
+            }
+        ]
+    },
+    "GO:0002879 | positive regulation of acute inflammatory response to non-antigenic stimulus": {
+        "GO_name": "positive regulation of acute inflammatory response to non-antigenic stimulus",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FFAR2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FFAR3"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "SCFA and skeletal muscle substrate metabolism",
+                "genes_found": [
+                    "FFAR2",
+                    "FFAR3"
+                ]
+            },
+            {
+                "pathway_name": "Free fatty acid receptors",
+                "genes_found": [
+                    "FFAR2",
+                    "FFAR3"
+                ]
+            },
+            {
+                "pathway_name": "GPCRs class A rhodopsin like",
+                "genes_found": [
+                    "FFAR2",
+                    "FFAR3"
+                ]
+            }
+        ]
+    },
+    "GO:0010936 | negative regulation of macrophage cytokine production": {
+        "GO_name": "negative regulation of macrophage cytokine production",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "IRAK3"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TGFB1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TGFB2"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "TGFB3"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Signal transduction through IL1R",
+                "genes_found": [
+                    "IRAK3",
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Fibrotic response of human trabecular meshwork cells to transforming growth factor beta 3 TGFB3 and autotaxin ENPP2 or ATX in aqueous humor",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Platelet mediated interactions with vascular and circulating cells",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Selective expression of chemokine receptors during T cell polarization",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Extracellular vesicle mediated signaling in recipient cells",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Type 2 papillary renal cell carcinoma",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Neovascularization processes",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Molecules associated with elastic fibres",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Immune infiltration in pancreatic cancer",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Elastic fibre formation",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Envelope proteins and their potential roles in EDMD physiopathology",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "TGF-beta receptor signaling activates SMADs",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Interactions between immune cells and microRNAs in tumor microenvironment",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "T cell modulation and desmoplasia in pancreatic cancer",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Chromosomal and microsatellite instability in colorectal cancer ",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "ECM proteoglycans",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Clear cell renal cell carcinoma pathways",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Pancreatic adenocarcinoma pathway",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by TGF-beta Receptor Complex",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Complement system in neuronal development and plasticity",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Cell cycle",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by TGFB family members",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Platelet degranulation ",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Response to elevated platelet cytosolic Ca2+",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Neuroinflammation and glutamatergic signaling",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Hepatitis B infection",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Epithelial to mesenchymal transition in colorectal cancer",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "MAPK signaling",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Cytokine cytokine receptor interaction",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Platelet activation, signaling and aggregation",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            },
+            {
+                "pathway_name": "Extracellular matrix organization",
+                "genes_found": [
+                    "TGFB1",
+                    "TGFB2",
+                    "TGFB3"
+                ]
+            }
+        ]
+    },
+    "GO:0050900 | leukocyte migration": {
+        "GO_name": "leukocyte migration",
+        "genes": [
+            {
+                "Gene_name": "",
+                "Gene_symbol": "FYN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "HCK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ICAM1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ITGA4"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ITGB7"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "LCK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "LYN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MSN"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "MYH9"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ROCK1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SELL"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SOS1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SRC"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "SYK"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "YES1"
+            },
+            {
+                "Gene_name": "",
+                "Gene_symbol": "ZAP70"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Immune System",
+                "genes_found": [
+                    "FYN",
+                    "HCK",
+                    "ICAM1",
+                    "ITGA4",
+                    "ITGB7",
+                    "LCK",
+                    "LYN",
+                    "MSN",
+                    "MYH9",
+                    "ROCK1",
+                    "SELL",
+                    "SOS1",
+                    "SRC",
+                    "SYK",
+                    "YES1",
+                    "ZAP70"
+                ]
+            }
+        ]
+    }
+}
