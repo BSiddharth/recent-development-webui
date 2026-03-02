@@ -1,0 +1,1463 @@
+{
+  "GO:0001819 | positive regulation of cytokine production": {
+    "gene_set_size": 86,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Immune System",
+        "p_value": 5.6447655107214025e-19,
+        "hit_count": 50,
+        "hit_fraction": 0.5813953488372093,
+        "hit_genes": [
+          "AGER",
+          "AGPAT2",
+          "BATF",
+          "BCL10",
+          "BTN3A1",
+          "CARD9",
+          "CD14",
+          "CD160",
+          "CD28",
+          "CLEC4E",
+          "CLEC5A",
+          "CLEC6A",
+          "CRTAM",
+          "EIF2AK2",
+          "FADD",
+          "FGR",
+          "GATA3",
+          "GLMN",
+          "HAVCR2",
+          "IFI16",
+          "IFNG",
+          "IL10",
+          "IL15",
+          "IL17F",
+          "IL1A",
+          "IL1B",
+          "IL21",
+          "IL26",
+          "IL33",
+          "IL36A",
+          "IRAK3",
+          "IRF3",
+          "ITK",
+          "JAK2",
+          "MIF",
+          "NFAM1",
+          "NOD1",
+          "P2RX7",
+          "PANX1",
+          "PELI1",
+          "PIK3CD",
+          "RIPK2",
+          "SAA1",
+          "SLC11A1",
+          "SOD1",
+          "SYK",
+          "TLR9",
+          "TNF",
+          "TNFSF4",
+          "TXK"
+        ]
+      }
+    ]
+  },
+  "GO:0002246 | wound healing involved in inflammatory response": {
+    "gene_set_size": 2,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Heme signaling",
+        "p_value": 0.004905605400602753,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "HMOX1",
+          "TLR4"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "COVID 19 and endothelial cell senescence",
+        "p_value": 0.049666732309188076,
+        "hit_count": 1,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "TLR4"
+        ]
+      }
+    ]
+  },
+  "GO:0002248 | connective tissue replacement involved in inflammatory response wound healing": {
+    "gene_set_size": 6,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Interleukin-4 and Interleukin-13 signaling",
+        "p_value": 9.654884133490804e-06,
+        "hit_count": 4,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "HIF1A",
+          "IL1A",
+          "TGFB1",
+          "TIMP1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Signaling by Interleukins",
+        "p_value": 0.0033139349463511304,
+        "hit_count": 4,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "HIF1A",
+          "IL1A",
+          "TGFB1",
+          "TIMP1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Cytokine Signaling in Immune system",
+        "p_value": 0.023462691996580715,
+        "hit_count": 4,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "HIF1A",
+          "IL1A",
+          "TGFB1",
+          "TIMP1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Platelet activation, signaling and aggregation",
+        "p_value": 0.02469471415431138,
+        "hit_count": 3,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "F2R",
+          "TGFB1",
+          "TIMP1"
+        ]
+      }
+    ]
+  },
+  "GO:0002523 | leukocyte migration involved in inflammatory response": {
+    "gene_set_size": 12,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Neutrophil degranulation",
+        "p_value": 0.0014146943647654576,
+        "hit_count": 6,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "ADAM8",
+          "ALOX5",
+          "ELANE",
+          "ITGB2",
+          "S100A8",
+          "S100A9"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Innate Immune System",
+        "p_value": 0.01486067945462908,
+        "hit_count": 7,
+        "hit_fraction": 0.5833333333333334,
+        "hit_genes": [
+          "ADAM8",
+          "ALOX5",
+          "CCR6",
+          "ELANE",
+          "ITGB2",
+          "S100A8",
+          "S100A9"
+        ]
+      }
+    ]
+  },
+  "GO:0002540 | leukotriene production involved in inflammatory response": {
+    "gene_set_size": 2,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Biosynthesis of Lipoxins (LX)",
+        "p_value": 6.807038021187906e-05,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Leukotriene metabolic pathway",
+        "p_value": 8.855880946659351e-05,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Synthesis of 5-eicosatetraenoic acids",
+        "p_value": 0.00016336891250850986,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Eicosanoid synthesis",
+        "p_value": 0.00028724844609036065,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Prostaglandin and leukotriene metabolism in senescence ",
+        "p_value": 0.0005994750179277084,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Prostaglandin and leukotriene metabolism in senescence ",
+        "p_value": 0.0006369422065481917,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Biosynthesis of specialized proresolving mediators (SPMs)",
+        "p_value": 0.0006943178781611664,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Synthesis of Leukotrienes (LT) and Eoxins (EX)",
+        "p_value": 0.0009529853229663084,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Omega 6 fatty acids in senescence",
+        "p_value": 0.001280696629209195,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Selenium micronutrient network",
+        "p_value": 0.004149774982056395,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Arachidonate metabolism",
+        "p_value": 0.00776456136950167,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "ALOX5",
+          "ALOX5AP"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "ALA oxylipin metabolism",
+        "p_value": 0.029803445493564493,
+        "hit_count": 1,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "ALOX5"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Linoleic acid oxylipin metabolism",
+        "p_value": 0.029803445493564493,
+        "hit_count": 1,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "ALOX5"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Sebaleic acid formation and metabolism",
+        "p_value": 0.049666732309188076,
+        "hit_count": 1,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "ALOX5"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Biosynthesis of DPAn-3-derived 13-series resolvins",
+        "p_value": 0.04993189289808637,
+        "hit_count": 1,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "ALOX5"
+        ]
+      }
+    ]
+  },
+  "GO:0002685 | regulation of leukocyte migration": {
+    "gene_set_size": 5,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Chemokine signaling",
+        "p_value": 0.00615413898074697,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "CRK",
+          "CRKL",
+          "CXCR3"
+        ]
+      }
+    ]
+  },
+  "GO:0002690 | positive regulation of leukocyte chemotaxis": {
+    "gene_set_size": 13,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Signal Transduction",
+        "p_value": 0.0002999351253888492,
+        "hit_count": 11,
+        "hit_fraction": 0.8461538461538461,
+        "hit_genes": [
+          "ADAM17",
+          "CXCL10",
+          "EDN2",
+          "EDN3",
+          "F2RL1",
+          "GPSM3",
+          "IL6",
+          "IL6R",
+          "MDK",
+          "PTN",
+          "XCL1"
+        ]
+      }
+    ]
+  },
+  "GO:0002719 | negative regulation of cytokine production involved in immune response": {
+    "gene_set_size": 7,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Network map of SARS CoV 2 signaling",
+        "p_value": 0.0003205799650631148,
+        "hit_count": 4,
+        "hit_fraction": 0.5714285714285714,
+        "hit_genes": [
+          "APOA1",
+          "APOA2",
+          "IL10",
+          "TNF"
+        ]
+      }
+    ]
+  },
+  "GO:0002724 | regulation of T cell cytokine production": {
+    "gene_set_size": 4,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Interleukin-10 signaling",
+        "p_value": 0.00896187823389408,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "CCR2",
+          "TNFRSF1B"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Neuroinflammation and glutamatergic signaling",
+        "p_value": 0.049232270034958156,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "TNFRSF1B",
+          "TRPM4"
+        ]
+      }
+    ]
+  },
+  "GO:0002726 | positive regulation of T cell cytokine production": {
+    "gene_set_size": 13,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Immune System",
+        "p_value": 0.014072998125844385,
+        "hit_count": 8,
+        "hit_fraction": 0.6153846153846154,
+        "hit_genes": [
+          "B2M",
+          "CD55",
+          "HLA-A",
+          "MALT1",
+          "MAP3K7",
+          "TNFSF4",
+          "TRAF2",
+          "TRAF6"
+        ]
+      }
+    ]
+  },
+  "GO:0002729 | positive regulation of natural killer cell cytokine production": {
+    "gene_set_size": 9,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+        "p_value": 1.2842807708298298e-07,
+        "hit_count": 6,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "CD160",
+          "CD226",
+          "HLA-E",
+          "HLA-F",
+          "HLA-G",
+          "KIR2DL4"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Adaptive Immune System",
+        "p_value": 0.0009617623470196826,
+        "hit_count": 6,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "CD160",
+          "CD226",
+          "HLA-E",
+          "HLA-F",
+          "HLA-G",
+          "KIR2DL4"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Immune System",
+        "p_value": 0.014517033628586216,
+        "hit_count": 7,
+        "hit_fraction": 0.7777777777777778,
+        "hit_genes": [
+          "CD160",
+          "CD226",
+          "HLA-E",
+          "HLA-F",
+          "HLA-G",
+          "IL21",
+          "KIR2DL4"
+        ]
+      }
+    ]
+  },
+  "GO:0002730 | regulation of dendritic cell cytokine production": {
+    "gene_set_size": 3,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Type I interferon induction and signaling during SARS CoV 2 infection",
+        "p_value": 2.626933841191222e-06,
+        "hit_count": 3,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "TLR3",
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Toll like receptor signaling related to MyD88",
+        "p_value": 2.626933841191222e-06,
+        "hit_count": 3,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "TLR3",
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Transcriptional regulation of memory B cell differentiation",
+        "p_value": 8.87138058048558e-06,
+        "hit_count": 3,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "TLR3",
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Toll like receptor signaling",
+        "p_value": 8.089144552357773e-05,
+        "hit_count": 3,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "TLR3",
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Induction of autophagy and toll like receptor signaling by graphene oxide ",
+        "p_value": 0.00028105562244842706,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Toll-like Receptor Cascades",
+        "p_value": 0.0006064422057220938,
+        "hit_count": 3,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "TLR3",
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Trafficking and processing of endosomal TLR",
+        "p_value": 0.0007074600853617423,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR3",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "MYD88 distinct input output pathway",
+        "p_value": 0.0007814283701592707,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Post COVID neuroinflammation",
+        "p_value": 0.001291673012518703,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR3",
+          "TLR4"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Diseases of Immune System",
+        "p_value": 0.004493537685044906,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR3",
+          "TLR4"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Diseases associated with the TLR signaling cascade",
+        "p_value": 0.004493537685044906,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR3",
+          "TLR4"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Fibrin complement receptor 3 signaling",
+        "p_value": 0.004821993914766384,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR3",
+          "TLR4"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Acute viral myocarditis",
+        "p_value": 0.018140138232084966,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR3",
+          "TLR4"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "RSV-host interactions",
+        "p_value": 0.04201483209834873,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR3",
+          "TLR4"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",
+        "p_value": 0.04465966355620661,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "MyD88 dependent cascade initiated on endosome",
+        "p_value": 0.045559101664974885,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Measles virus infection",
+        "p_value": 0.046463662934193635,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Toll Like Receptor 7/8 (TLR7/8) Cascade",
+        "p_value": 0.04646745083533258,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR4",
+          "TLR9"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Toll Like Receptor 9 (TLR9) Cascade",
+        "p_value": 0.049245948217031175,
+        "hit_count": 2,
+        "hit_fraction": 0.6666666666666666,
+        "hit_genes": [
+          "TLR4",
+          "TLR9"
+        ]
+      }
+    ]
+  },
+  "GO:0002732 | positive regulation of dendritic cell cytokine production": {
+    "gene_set_size": 4,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Ras signaling",
+        "p_value": 0.018907305821117687,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "KIT",
+          "PLCG2"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "CLEC7A (Dectin-1) signaling",
+        "p_value": 0.04201483209834873,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "CLEC7A",
+          "PLCG2"
+        ]
+      }
+    ]
+  },
+  "GO:0002862 | negative regulation of inflammatory response to antigenic stimulus": {
+    "gene_set_size": 30,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Anti-inflammatory response favouring Leishmania parasite infection",
+        "p_value": 1.3621743804472152e-23,
+        "hit_count": 16,
+        "hit_fraction": 0.5333333333333333,
+        "hit_genes": [
+          "FGR",
+          "FURIN",
+          "FYN",
+          "GNAS",
+          "HCK",
+          "LYN",
+          "MAPK14",
+          "PLCG1",
+          "PLK2",
+          "PRKAR1A",
+          "PRKAR1B",
+          "PRKAR2A",
+          "PRKAR2B",
+          "RHBDF2",
+          "SYK",
+          "YES1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Leishmania parasite growth and survival",
+        "p_value": 1.3621743804472152e-23,
+        "hit_count": 16,
+        "hit_fraction": 0.5333333333333333,
+        "hit_genes": [
+          "FGR",
+          "FURIN",
+          "FYN",
+          "GNAS",
+          "HCK",
+          "LYN",
+          "MAPK14",
+          "PLCG1",
+          "PLK2",
+          "PRKAR1A",
+          "PRKAR1B",
+          "PRKAR2A",
+          "PRKAR2B",
+          "RHBDF2",
+          "SYK",
+          "YES1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Leishmania infection",
+        "p_value": 4.834609729532175e-20,
+        "hit_count": 16,
+        "hit_fraction": 0.5333333333333333,
+        "hit_genes": [
+          "FGR",
+          "FURIN",
+          "FYN",
+          "GNAS",
+          "HCK",
+          "LYN",
+          "MAPK14",
+          "PLCG1",
+          "PLK2",
+          "PRKAR1A",
+          "PRKAR1B",
+          "PRKAR2A",
+          "PRKAR2B",
+          "RHBDF2",
+          "SYK",
+          "YES1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Parasitic Infection Pathways",
+        "p_value": 4.834609729532175e-20,
+        "hit_count": 16,
+        "hit_fraction": 0.5333333333333333,
+        "hit_genes": [
+          "FGR",
+          "FURIN",
+          "FYN",
+          "GNAS",
+          "HCK",
+          "LYN",
+          "MAPK14",
+          "PLCG1",
+          "PLK2",
+          "PRKAR1A",
+          "PRKAR1B",
+          "PRKAR2A",
+          "PRKAR2B",
+          "RHBDF2",
+          "SYK",
+          "YES1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Infectious disease",
+        "p_value": 3.6885998853744756e-13,
+        "hit_count": 19,
+        "hit_fraction": 0.6333333333333333,
+        "hit_genes": [
+          "FGR",
+          "FURIN",
+          "FYN",
+          "GNAS",
+          "HCK",
+          "LYN",
+          "MAPK14",
+          "PLCG1",
+          "PLK2",
+          "PRKAR1A",
+          "PRKAR1B",
+          "PRKAR2A",
+          "PRKAR2B",
+          "PSMA1",
+          "PSMB4",
+          "RHBDF2",
+          "SRC",
+          "SYK",
+          "YES1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Disease",
+        "p_value": 9.50884644104488e-09,
+        "hit_count": 19,
+        "hit_fraction": 0.6333333333333333,
+        "hit_genes": [
+          "FGR",
+          "FURIN",
+          "FYN",
+          "GNAS",
+          "HCK",
+          "LYN",
+          "MAPK14",
+          "PLCG1",
+          "PLK2",
+          "PRKAR1A",
+          "PRKAR1B",
+          "PRKAR2A",
+          "PRKAR2B",
+          "PSMA1",
+          "PSMB4",
+          "RHBDF2",
+          "SRC",
+          "SYK",
+          "YES1"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Signal Transduction",
+        "p_value": 0.0023057072339708567,
+        "hit_count": 16,
+        "hit_fraction": 0.5333333333333333,
+        "hit_genes": [
+          "FURIN",
+          "FYN",
+          "GNAS",
+          "GPR17",
+          "LYN",
+          "MAPK14",
+          "PLCG1",
+          "PRKAR1A",
+          "PRKAR1B",
+          "PRKAR2A",
+          "PRKAR2B",
+          "PSMA1",
+          "PSMB4",
+          "SRC",
+          "SYK",
+          "YES1"
+        ]
+      }
+    ]
+  },
+  "GO:0002876 | positive regulation of chronic inflammatory response to antigenic stimulus": {
+    "gene_set_size": 2,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Apoptosis",
+        "p_value": 0.0042474167463400735,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "LTA",
+          "TNF"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "T cell activation SARS CoV 2",
+        "p_value": 0.00434619387997589,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "LTA",
+          "TNF"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Overview of proinflammatory and profibrotic mediators",
+        "p_value": 0.009084090186438623,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "LTA",
+          "TNF"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Neuroinflammation and glutamatergic signaling",
+        "p_value": 0.011047143796281458,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "LTA",
+          "TNF"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "TNFR2 non-canonical NF-kB pathway",
+        "p_value": 0.022463225469920075,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "LTA",
+          "TNF"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Cytokine cytokine receptor interaction",
+        "p_value": 0.03648055265347576,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "LTA",
+          "TNF"
+        ]
+      }
+    ]
+  },
+  "GO:0002879 | positive regulation of acute inflammatory response to non-antigenic stimulus": {
+    "gene_set_size": 2,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "SCFA and skeletal muscle substrate metabolism",
+        "p_value": 1.7030540282037196e-05,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "FFAR2",
+          "FFAR3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Free fatty acid receptors",
+        "p_value": 4.5380253474586e-05,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "FFAR2",
+          "FFAR3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "GPCRs class A rhodopsin like",
+        "p_value": 0.03764090013135859,
+        "hit_count": 2,
+        "hit_fraction": 1.0,
+        "hit_genes": [
+          "FFAR2",
+          "FFAR3"
+        ]
+      }
+    ]
+  },
+  "GO:0010936 | negative regulation of macrophage cytokine production": {
+    "gene_set_size": 5,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Signal transduction through IL1R",
+        "p_value": 1.414697877603407e-08,
+        "hit_count": 4,
+        "hit_fraction": 0.8,
+        "hit_genes": [
+          "IRAK3",
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Fibrotic response of human trabecular meshwork cells to transforming growth factor beta 3 TGFB3 and autotaxin ENPP2 or ATX in aqueous humor",
+        "p_value": 1.3748360336914683e-06,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Platelet mediated interactions with vascular and circulating cells",
+        "p_value": 2.054347369095166e-06,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Selective expression of chemokine receptors during T cell polarization",
+        "p_value": 1.1027726568366882e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Extracellular vesicle mediated signaling in recipient cells",
+        "p_value": 1.1027726568366882e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Type 2 papillary renal cell carcinoma",
+        "p_value": 1.8051879577932445e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Neovascularization processes",
+        "p_value": 2.3433645793517496e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Molecules associated with elastic fibres",
+        "p_value": 2.3672224069546937e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Immune infiltration in pancreatic cancer",
+        "p_value": 2.7557691663149563e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Elastic fibre formation",
+        "p_value": 4.0330111896169104e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Envelope proteins and their potential roles in EDMD physiopathology",
+        "p_value": 4.574613833319164e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "TGF-beta receptor signaling activates SMADs",
+        "p_value": 4.6219222957977593e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Interactions between immune cells and microRNAs in tumor microenvironment",
+        "p_value": 4.8860988797609285e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "T cell modulation and desmoplasia in pancreatic cancer",
+        "p_value": 7.900003805299123e-05,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Chromosomal and microsatellite instability in colorectal cancer ",
+        "p_value": 0.00018699716961827537,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "ECM proteoglycans",
+        "p_value": 0.00021360647727099025,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Clear cell renal cell carcinoma pathways",
+        "p_value": 0.00029665245605073174,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Pancreatic adenocarcinoma pathway",
+        "p_value": 0.00032950311639987876,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Signaling by TGF-beta Receptor Complex",
+        "p_value": 0.0003811563927701401,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Complement system in neuronal development and plasticity",
+        "p_value": 0.0005783784182001747,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Cell cycle",
+        "p_value": 0.0008409450443654735,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Signaling by TGFB family members",
+        "p_value": 0.000894259029557844,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Platelet degranulation ",
+        "p_value": 0.0009856431590112562,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Response to elevated platelet cytosolic Ca2+",
+        "p_value": 0.0011083387257180717,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Neuroinflammation and glutamatergic signaling",
+        "p_value": 0.0013379088840699345,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Hepatitis B infection",
+        "p_value": 0.0017134211011297091,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Epithelial to mesenchymal transition in colorectal cancer",
+        "p_value": 0.0020368346124859313,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "MAPK signaling",
+        "p_value": 0.007171221286129273,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Cytokine cytokine receptor interaction",
+        "p_value": 0.00798809865078589,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Platelet activation, signaling and aggregation",
+        "p_value": 0.008587773666236666,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      },
+      {
+        "source": "REAC",
+        "pathway_name": "Extracellular matrix organization",
+        "p_value": 0.013065185888082219,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "TGFB1",
+          "TGFB2",
+          "TGFB3"
+        ]
+      }
+    ]
+  },
+  "GO:0050900 | leukocyte migration": {
+    "gene_set_size": 37,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Immune System",
+        "p_value": 1.0842736446022204e-05,
+        "hit_count": 20,
+        "hit_fraction": 0.5405405405405406,
+        "hit_genes": [
+          "B4GALT1",
+          "ELANE",
+          "FYN",
+          "HCK",
+          "ICAM1",
+          "IL1B",
+          "ITGA4",
+          "ITGB7",
+          "LCK",
+          "LYN",
+          "MSN",
+          "MYH9",
+          "ROCK1",
+          "SELL",
+          "SOS1",
+          "SRC",
+          "SYK",
+          "TNF",
+          "YES1",
+          "ZAP70"
+        ]
+      }
+    ]
+  }
+}

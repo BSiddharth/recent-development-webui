@@ -1,0 +1,248 @@
+{
+  "GO:0003413 | chondrocyte differentiation involved in endochondral bone morphogenesis": {
+    "gene_set_size": 4,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "FGFR3 signaling in chondrocyte proliferation and terminal differentiation",
+        "p_value": 0.0017914578413320483,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "IHH",
+          "SOX9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Endochondral ossification",
+        "p_value": 0.009940462589348466,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "IHH",
+          "SOX9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Endochondral ossification with skeletal dysplasias",
+        "p_value": 0.009940462589348466,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "IHH",
+          "SOX9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Neural crest differentiation",
+        "p_value": 0.02562893927883604,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "AXIN2",
+          "SOX9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Osteoblast differentiation and related diseases",
+        "p_value": 0.03498726280955294,
+        "hit_count": 2,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "IHH",
+          "SOX9"
+        ]
+      }
+    ]
+  },
+  "GO:0030279 | negative regulation of ossification": {
+    "gene_set_size": 27,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Signal Transduction",
+        "p_value": 5.675123013104076e-10,
+        "hit_count": 22,
+        "hit_fraction": 0.8148148148148148,
+        "hit_genes": [
+          "ACVR1B",
+          "ACVR2B",
+          "BCL2",
+          "CALCR",
+          "DKK1",
+          "DLK1",
+          "GFRA4",
+          "HIF1A",
+          "KREMEN1",
+          "KREMEN2",
+          "MDK",
+          "MEF2C",
+          "NOTCH1",
+          "RBPJ",
+          "SFRP1",
+          "SMAD2",
+          "SMAD3",
+          "SMAD6",
+          "SMAD7",
+          "SOST",
+          "SOX9",
+          "TGFB1"
+        ]
+      }
+    ]
+  },
+  "GO:0045672 | positive regulation of osteoclast differentiation": {
+    "gene_set_size": 30,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Immune System",
+        "p_value": 7.646689983442495e-05,
+        "hit_count": 15,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "CCR1",
+          "CSF1",
+          "FOS",
+          "IFNG",
+          "IL12B",
+          "IL17A",
+          "IL20",
+          "IL23A",
+          "IL23R",
+          "PPP3CA",
+          "TNF",
+          "TNFRSF11A",
+          "TNFSF11",
+          "TRAF6",
+          "TREM2"
+        ]
+      }
+    ]
+  },
+  "GO:0045778 | positive regulation of ossification": {
+    "gene_set_size": 20,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Signal Transduction",
+        "p_value": 0.04551559063613316,
+        "hit_count": 11,
+        "hit_fraction": 0.55,
+        "hit_genes": [
+          "ADCY10",
+          "BMP2",
+          "BMPR2",
+          "OXT",
+          "PTH",
+          "PTN",
+          "PTPN11",
+          "TAC1",
+          "TACR1",
+          "WNT10B",
+          "WNT5A"
+        ]
+      }
+    ]
+  },
+  "GO:0046849 | bone remodeling": {
+    "gene_set_size": 18,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Signal Transduction",
+        "p_value": 0.017677723836830996,
+        "hit_count": 11,
+        "hit_fraction": 0.6111111111111112,
+        "hit_genes": [
+          "DOCK5",
+          "EPHA2",
+          "GJA1",
+          "HTR1B",
+          "LGR4",
+          "LRP5",
+          "LTBP3",
+          "NOTCH2",
+          "TPH1",
+          "TRAF6",
+          "WNT16"
+        ]
+      }
+    ]
+  },
+  "GO:0060350 | endochondral bone morphogenesis": {
+    "gene_set_size": 6,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Osteoblast differentiation and related diseases",
+        "p_value": 0.005098482644382553,
+        "hit_count": 3,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "BMPR1B",
+          "BMPR2",
+          "SOX9"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Mesodermal commitment pathway",
+        "p_value": 0.009634754940374128,
+        "hit_count": 3,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "BMPR2",
+          "EXT1",
+          "EXT2"
+        ]
+      }
+    ]
+  },
+  "GO:0071838 | cell proliferation in bone marrow": {
+    "gene_set_size": 2,
+    "pathways": [
+      {
+        "source": "WP",
+        "pathway_name": "Downregulation of ACE2 by SARS CoV 2 spike protein",
+        "p_value": 0.03973565658605092,
+        "hit_count": 1,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "ACE"
+        ]
+      },
+      {
+        "source": "WP",
+        "pathway_name": "Conversion of angiotensinogen to angiotensin II ",
+        "p_value": 0.049666732309188076,
+        "hit_count": 1,
+        "hit_fraction": 0.5,
+        "hit_genes": [
+          "ACE"
+        ]
+      }
+    ]
+  },
+  "GO:0097241 | hematopoietic stem cell migration to bone marrow": {
+    "gene_set_size": 5,
+    "pathways": [
+      {
+        "source": "REAC",
+        "pathway_name": "Cell surface interactions at the vascular wall",
+        "p_value": 0.010112631490561907,
+        "hit_count": 3,
+        "hit_fraction": 0.6,
+        "hit_genes": [
+          "GAS6",
+          "JAM2",
+          "JAM3"
+        ]
+      }
+    ]
+  }
+}
