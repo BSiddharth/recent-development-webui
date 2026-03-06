@@ -1,0 +1,4261 @@
+{
+    "GO:0036022": {
+        "go_id": "GO:0036022",
+        "go_name": "limb joint morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "ERRFI1",
+                "gene_name": "ERBB receptor feedback inhibitor 1"
+            },
+            {
+                "gene_symbol": "COL6A1",
+                "gene_name": "collagen type VI alpha 1 chain"
+            },
+            {
+                "gene_symbol": "OSR1",
+                "gene_name": "odd-skipped related transcription factor 1"
+            },
+            {
+                "gene_symbol": "OSR2",
+                "gene_name": "odd-skipped related transciption factor 2"
+            },
+            {
+                "gene_symbol": "CTNNB1",
+                "gene_name": "catenin beta 1"
+            },
+            {
+                "gene_symbol": "COL3A1",
+                "gene_name": "collagen type III alpha 1 chain"
+            },
+            {
+                "gene_symbol": "EXT1",
+                "gene_name": "exostosin glycosyltransferase 1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Gastrulation",
+                "genes_found": [
+                    "OSR1",
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Receptor Tyrosine Kinases",
+                "genes_found": [
+                    "CTNNB1",
+                    "COL6A1",
+                    "COL3A1"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "OSR1",
+                    "COL6A1",
+                    "CTNNB1",
+                    "COL3A1"
+                ]
+            }
+        ]
+    },
+    "GO:0048098": {
+        "go_id": "GO:0048098",
+        "go_name": "antennal joint development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0061975": {
+        "go_id": "GO:0061975",
+        "go_name": "articular cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "IFT80",
+                "gene_name": "intraflagellar transport 80"
+            },
+            {
+                "gene_symbol": "EPYC",
+                "gene_name": "epiphycan"
+            },
+            {
+                "gene_symbol": "OGN",
+                "gene_name": "osteoglycin"
+            },
+            {
+                "gene_symbol": "PBXIP1",
+                "gene_name": "PBX homeobox interacting protein 1"
+            },
+            {
+                "gene_symbol": "BGN",
+                "gene_name": "biglycan"
+            },
+            {
+                "gene_symbol": "OPTC",
+                "gene_name": "opticin"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0072498": {
+        "go_id": "GO:0072498",
+        "go_name": "embryonic skeletal joint development",
+        "genes": [
+            {
+                "gene_symbol": "HOXA11",
+                "gene_name": "homeobox A11"
+            },
+            {
+                "gene_symbol": "BMP7",
+                "gene_name": "bone morphogenetic protein 7"
+            },
+            {
+                "gene_symbol": "HYAL1",
+                "gene_name": "hyaluronidase 1"
+            },
+            {
+                "gene_symbol": "HOXC11",
+                "gene_name": "homeobox C11"
+            },
+            {
+                "gene_symbol": "BMP4",
+                "gene_name": "bone morphogenetic protein 4"
+            },
+            {
+                "gene_symbol": "COL2A1",
+                "gene_name": "collagen type II alpha 1 chain"
+            },
+            {
+                "gene_symbol": "WNT9A",
+                "gene_name": "Wnt family member 9A"
+            },
+            {
+                "gene_symbol": "OSR1",
+                "gene_name": "odd-skipped related transcription factor 1"
+            },
+            {
+                "gene_symbol": "IHH",
+                "gene_name": "Indian hedgehog signaling molecule"
+            },
+            {
+                "gene_symbol": "OSR2",
+                "gene_name": "odd-skipped related transciption factor 2"
+            },
+            {
+                "gene_symbol": "CTNNB1",
+                "gene_name": "catenin beta 1"
+            },
+            {
+                "gene_symbol": "SHOX2",
+                "gene_name": "SHOX homeobox 2"
+            },
+            {
+                "gene_symbol": "EXT1",
+                "gene_name": "exostosin glycosyltransferase 1"
+            },
+            {
+                "gene_symbol": "NOG",
+                "gene_name": "noggin"
+            },
+            {
+                "gene_symbol": "SLC2A10",
+                "gene_name": "solute carrier family 2 member 10"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Gastrulation",
+                "genes_found": [
+                    "OSR1",
+                    "NOG",
+                    "CTNNB1",
+                    "IHH",
+                    "BMP4"
+                ]
+            }
+        ]
+    },
+    "GO:1902762": {
+        "go_id": "GO:1902762",
+        "go_name": "regulation of embryonic skeletal joint development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0061977": {
+        "go_id": "GO:0061977",
+        "go_name": "hip joint articular cartilage development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0061976": {
+        "go_id": "GO:0061976",
+        "go_name": "temporomandibular joint articular cartilage development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:1902763": {
+        "go_id": "GO:1902763",
+        "go_name": "negative regulation of embryonic skeletal joint development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:1902764": {
+        "go_id": "GO:1902764",
+        "go_name": "positive regulation of embryonic skeletal joint development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0048801": {
+        "go_id": "GO:0048801",
+        "go_name": "antennal joint morphogenesis",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0010946": {
+        "go_id": "GO:0010946",
+        "go_name": "regulation of meiotic joint molecule formation",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0000709": {
+        "go_id": "GO:0000709",
+        "go_name": "meiotic joint molecule formation",
+        "genes": [
+            {
+                "gene_symbol": "PSMC3IP",
+                "gene_name": "PSMC3 interacting protein"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Meiotic recombination",
+                "genes_found": [
+                    "PSMC3IP"
+                ]
+            },
+            {
+                "pathway_name": "Meiosis",
+                "genes_found": [
+                    "PSMC3IP"
+                ]
+            },
+            {
+                "pathway_name": "Reproduction",
+                "genes_found": [
+                    "PSMC3IP"
+                ]
+            },
+            {
+                "pathway_name": "Cell Cycle",
+                "genes_found": [
+                    "PSMC3IP"
+                ]
+            }
+        ]
+    },
+    "GO:0060272": {
+        "go_id": "GO:0060272",
+        "go_name": "embryonic skeletal joint morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "HOXA11",
+                "gene_name": "homeobox A11"
+            },
+            {
+                "gene_symbol": "BMP7",
+                "gene_name": "bone morphogenetic protein 7"
+            },
+            {
+                "gene_symbol": "HYAL1",
+                "gene_name": "hyaluronidase 1"
+            },
+            {
+                "gene_symbol": "HOXC11",
+                "gene_name": "homeobox C11"
+            },
+            {
+                "gene_symbol": "BMP4",
+                "gene_name": "bone morphogenetic protein 4"
+            },
+            {
+                "gene_symbol": "COL2A1",
+                "gene_name": "collagen type II alpha 1 chain"
+            },
+            {
+                "gene_symbol": "OSR1",
+                "gene_name": "odd-skipped related transcription factor 1"
+            },
+            {
+                "gene_symbol": "OSR2",
+                "gene_name": "odd-skipped related transciption factor 2"
+            },
+            {
+                "gene_symbol": "CTNNB1",
+                "gene_name": "catenin beta 1"
+            },
+            {
+                "gene_symbol": "SHOX2",
+                "gene_name": "SHOX homeobox 2"
+            },
+            {
+                "gene_symbol": "NOG",
+                "gene_name": "noggin"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Kidney development",
+                "genes_found": [
+                    "OSR1",
+                    "CTNNB1",
+                    "BMP4",
+                    "HOXA11",
+                    "HOXC11"
+                ]
+            },
+            {
+                "pathway_name": "Gastrulation",
+                "genes_found": [
+                    "OSR1",
+                    "NOG",
+                    "CTNNB1",
+                    "BMP4"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "OSR1",
+                    "NOG",
+                    "CTNNB1",
+                    "BMP4",
+                    "COL2A1",
+                    "HOXA11",
+                    "HOXC11",
+                    "BMP7"
+                ]
+            }
+        ]
+    },
+    "GO:0010947": {
+        "go_id": "GO:0010947",
+        "go_name": "negative regulation of meiotic joint molecule formation",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0036023": {
+        "go_id": "GO:0036023",
+        "go_name": "embryonic skeletal limb joint morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "OSR1",
+                "gene_name": "odd-skipped related transcription factor 1"
+            },
+            {
+                "gene_symbol": "OSR2",
+                "gene_name": "odd-skipped related transciption factor 2"
+            },
+            {
+                "gene_symbol": "CTNNB1",
+                "gene_name": "catenin beta 1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Formation of intermediate mesoderm",
+                "genes_found": [
+                    "OSR1"
+                ]
+            },
+            {
+                "pathway_name": "Gastrulation",
+                "genes_found": [
+                    "OSR1",
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Formation of the nephric duct",
+                "genes_found": [
+                    "CTNNB1",
+                    "OSR1"
+                ]
+            },
+            {
+                "pathway_name": "Kidney development",
+                "genes_found": [
+                    "CTNNB1",
+                    "OSR1"
+                ]
+            },
+            {
+                "pathway_name": "LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "CDH11 homotypic and heterotypic interactions",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of CDH19 Expression and Function",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "RUNX3 regulates WNT signaling",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Binding of TCF/LEF:CTNNB1 to target gene promoters",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Apoptotic cleavage of cell adhesion  proteins",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of CDH11 function",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "InlA-mediated entry of Listeria monocytogenes into host cells",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by GSK3beta mutants",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by CTNNB1 phospho-site mutants",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "CTNNB1 S45 mutants aren't phosphorylated",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "CTNNB1 T41 mutants aren't phosphorylated",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "CTNNB1 S33 mutants aren't phosphorylated",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "CTNNB1 S37 mutants aren't phosphorylated",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Formation of axial mesoderm",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Beta-catenin phosphorylation cascade",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Germ layer formation at gastrulation",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Specification of the neural plate border",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Formation of definitive endoderm",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Listeria monocytogenes entry into host cells",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of MITF-M-dependent genes involved in cell cycle and proliferation",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Myogenesis",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Disassembly of the destruction complex and recruitment of AXIN to the membrane",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of CDH11 Expression and Function",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "RHO GTPases activate IQGAPs",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by WNT in cancer",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Apoptotic cleavage of cellular proteins",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of Expression and Function of Type II Classical Cadherins",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Cardiogenesis",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of CDH1 posttranslational processing and trafficking to plasma membrane",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Deactivation of the beta-catenin transactivating complex",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional Regulation by VENTX",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "VEGFR2 mediated vascular permeability",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Incretin synthesis, secretion, and inactivation",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Somitogenesis",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of MITF-M-dependent genes involved in pigmentation",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Apoptotic execution phase",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Degradation of CDH1",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of CDH1 Function",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Formation of the beta-catenin:TCF transactivating complex",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Formation of paraxial mesoderm",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of PD-L1(CD274) transcription",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Degradation of beta-catenin by the destruction complex",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Cytosolic sensors of pathogen-associated DNA ",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional and post-translational regulation of MITF-M expression and activity",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Ca2+ pathway",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional regulation by RUNX3",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Response of endothelial cells to shear stress",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Cellular responses to mechanical stimuli",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "VEGFA-VEGFR2 Pathway",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Peptide hormone metabolism",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by VEGF",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Beta-catenin independent WNT signaling",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "MITF-M-dependent gene expression",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Apoptosis",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of PD-L1(CD274) expression",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of CDH1 Expression and Function",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of Expression and Function of Type I Classical Cadherins",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "TCF dependent signaling in response to WNT",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of Homotypic Cell-Cell Adhesion",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Co-inhibition by PD-1",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Programmed Cell Death",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "MITF-M-regulated melanocyte development",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Adherens junctions interactions",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "OSR1",
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Cell-cell junction organization",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Dengue Virus-Host Interactions",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of T cell activation by CD28 family",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Cell junction organization",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by WNT",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "RHO GTPase Effectors",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Cell-Cell communication",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Dengue Virus Infection",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Bacterial Infection Pathways",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Diseases of signal transduction by growth factor receptors and second messengers",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Receptor Tyrosine Kinases",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Rho GTPases",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Rho GTPases, Miro GTPases and RHOBTB3",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Adaptive Immune System",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Cellular responses to stimuli",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Innate Immune System",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Viral Infection Pathways",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Generic Transcription Pathway",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "RNA Polymerase II Transcription",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Gene expression (Transcription)",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Infectious disease",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Metabolism of proteins",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Immune System",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            },
+            {
+                "pathway_name": "Disease",
+                "genes_found": [
+                    "CTNNB1"
+                ]
+            }
+        ]
+    },
+    "GO:0110137": {
+        "go_id": "GO:0110137",
+        "go_name": "regulation of imaginal disc-derived leg joint morphogenesis",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0110138": {
+        "go_id": "GO:0110138",
+        "go_name": "positive regulation of imaginal disc-derived leg joint morphogenesis",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0110139": {
+        "go_id": "GO:0110139",
+        "go_name": "negative regulation of imaginal disc-derived leg joint morphogenesis",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0016348": {
+        "go_id": "GO:0016348",
+        "go_name": "imaginal disc-derived leg joint morphogenesis",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0061978": {
+        "go_id": "GO:0061978",
+        "go_name": "mandibular condyle articular cartilage development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0061979": {
+        "go_id": "GO:0061979",
+        "go_name": "femoral head articular cartilage development",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0051216": {
+        "go_id": "GO:0051216",
+        "go_name": "cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "HOXA11",
+                "gene_name": "homeobox A11"
+            },
+            {
+                "gene_symbol": "SCIN",
+                "gene_name": "scinderin"
+            },
+            {
+                "gene_symbol": "PKD1",
+                "gene_name": "polycystin 1, transient receptor potential channel interacting"
+            },
+            {
+                "gene_symbol": "SNAI2",
+                "gene_name": "snail family transcriptional repressor 2"
+            },
+            {
+                "gene_symbol": "RUNX3",
+                "gene_name": "RUNX family transcription factor 3"
+            },
+            {
+                "gene_symbol": "CD44",
+                "gene_name": "CD44 molecule (IN blood group)"
+            },
+            {
+                "gene_symbol": "BARX2",
+                "gene_name": "BARX homeobox 2"
+            },
+            {
+                "gene_symbol": "CHRDL2",
+                "gene_name": "chordin like 2"
+            },
+            {
+                "gene_symbol": "COL11A1",
+                "gene_name": "collagen type XI alpha 1 chain"
+            },
+            {
+                "gene_symbol": "HYAL2",
+                "gene_name": "hyaluronidase 2"
+            },
+            {
+                "gene_symbol": "FGFR3",
+                "gene_name": "fibroblast growth factor receptor 3"
+            },
+            {
+                "gene_symbol": "IFT80",
+                "gene_name": "intraflagellar transport 80"
+            },
+            {
+                "gene_symbol": "PITX1",
+                "gene_name": "paired like homeodomain 1"
+            },
+            {
+                "gene_symbol": "EVC",
+                "gene_name": "EvC ciliary complex subunit 1"
+            },
+            {
+                "gene_symbol": "GLI2",
+                "gene_name": "GLI family zinc finger 2"
+            },
+            {
+                "gene_symbol": "FGF4",
+                "gene_name": "fibroblast growth factor 4"
+            },
+            {
+                "gene_symbol": "FOSL2",
+                "gene_name": "FOS like 2, AP-1 transcription factor subunit"
+            },
+            {
+                "gene_symbol": "RARB",
+                "gene_name": "retinoic acid receptor beta"
+            },
+            {
+                "gene_symbol": "FGFR1",
+                "gene_name": "fibroblast growth factor receptor 1"
+            },
+            {
+                "gene_symbol": "EDN1",
+                "gene_name": "endothelin 1"
+            },
+            {
+                "gene_symbol": "MEF2C",
+                "gene_name": "myocyte enhancer factor 2C"
+            },
+            {
+                "gene_symbol": "EPYC",
+                "gene_name": "epiphycan"
+            },
+            {
+                "gene_symbol": "ZMPSTE24",
+                "gene_name": "zinc metallopeptidase STE24"
+            },
+            {
+                "gene_symbol": "WNT11",
+                "gene_name": "Wnt family member 11"
+            },
+            {
+                "gene_symbol": "PTHLH",
+                "gene_name": "parathyroid hormone like hormone"
+            },
+            {
+                "gene_symbol": "GLG1",
+                "gene_name": "golgi glycoprotein 1"
+            },
+            {
+                "gene_symbol": "CHADL",
+                "gene_name": "chondroadherin like"
+            },
+            {
+                "gene_symbol": "HIF1A",
+                "gene_name": "hypoxia inducible factor 1 subunit alpha"
+            },
+            {
+                "gene_symbol": "TRIP11",
+                "gene_name": "thyroid hormone receptor interactor 11"
+            },
+            {
+                "gene_symbol": "NFATC2",
+                "gene_name": "nuclear factor of activated T cells 2"
+            },
+            {
+                "gene_symbol": "BMP7",
+                "gene_name": "bone morphogenetic protein 7"
+            },
+            {
+                "gene_symbol": "SMAD7",
+                "gene_name": "SMAD family member 7"
+            },
+            {
+                "gene_symbol": "TIMP1",
+                "gene_name": "TIMP metallopeptidase inhibitor 1"
+            },
+            {
+                "gene_symbol": "FGF9",
+                "gene_name": "fibroblast growth factor 9"
+            },
+            {
+                "gene_symbol": "MAPK3",
+                "gene_name": "mitogen-activated protein kinase 3"
+            },
+            {
+                "gene_symbol": "SMPD3",
+                "gene_name": "sphingomyelin phosphodiesterase 3"
+            },
+            {
+                "gene_symbol": "BPNT2",
+                "gene_name": "3'(2'), 5'-bisphosphate nucleotidase 2"
+            },
+            {
+                "gene_symbol": "CCN4",
+                "gene_name": "cellular communication network factor 4"
+            },
+            {
+                "gene_symbol": "TRPS1",
+                "gene_name": "transcriptional repressor GATA binding 1"
+            },
+            {
+                "gene_symbol": "SLC39A14",
+                "gene_name": "solute carrier family 39 member 14"
+            },
+            {
+                "gene_symbol": "TGFB1",
+                "gene_name": "transforming growth factor beta 1"
+            },
+            {
+                "gene_symbol": "COMP",
+                "gene_name": "cartilage oligomeric matrix protein"
+            },
+            {
+                "gene_symbol": "ITGB8",
+                "gene_name": "integrin subunit beta 8"
+            },
+            {
+                "gene_symbol": "HOXA3",
+                "gene_name": "homeobox A3"
+            },
+            {
+                "gene_symbol": "HOXA5",
+                "gene_name": "homeobox A5"
+            },
+            {
+                "gene_symbol": "GLI3",
+                "gene_name": "GLI family zinc finger 3"
+            },
+            {
+                "gene_symbol": "TGFBR1",
+                "gene_name": "transforming growth factor beta receptor 1"
+            },
+            {
+                "gene_symbol": "OGN",
+                "gene_name": "osteoglycin"
+            },
+            {
+                "gene_symbol": "GATA3",
+                "gene_name": "GATA binding protein 3"
+            },
+            {
+                "gene_symbol": "BMPR1A",
+                "gene_name": "bone morphogenetic protein receptor type 1A"
+            },
+            {
+                "gene_symbol": "FBXW4",
+                "gene_name": "F-box and WD repeat domain containing 4"
+            },
+            {
+                "gene_symbol": "KAT2A",
+                "gene_name": "lysine acetyltransferase 2A"
+            },
+            {
+                "gene_symbol": "COL1A1",
+                "gene_name": "collagen type I alpha 1 chain"
+            },
+            {
+                "gene_symbol": "NKX3-2",
+                "gene_name": "NK3 homeobox 2"
+            },
+            {
+                "gene_symbol": "ZBTB16",
+                "gene_name": "zinc finger and BTB domain containing 16"
+            },
+            {
+                "gene_symbol": "MDK",
+                "gene_name": "midkine"
+            },
+            {
+                "gene_symbol": "SOX6",
+                "gene_name": "SRY-box transcription factor 6"
+            },
+            {
+                "gene_symbol": "MYF5",
+                "gene_name": "myogenic factor 5"
+            },
+            {
+                "gene_symbol": "WNT5B",
+                "gene_name": "Wnt family member 5B"
+            },
+            {
+                "gene_symbol": "TRPV4",
+                "gene_name": "transient receptor potential cation channel subfamily V member 4"
+            },
+            {
+                "gene_symbol": "FGF6",
+                "gene_name": "fibroblast growth factor 6"
+            },
+            {
+                "gene_symbol": "MGP",
+                "gene_name": "matrix Gla protein"
+            },
+            {
+                "gene_symbol": "MAPK14",
+                "gene_name": "mitogen-activated protein kinase 14"
+            },
+            {
+                "gene_symbol": "IL17F",
+                "gene_name": "interleukin 17F"
+            },
+            {
+                "gene_symbol": "BMP5",
+                "gene_name": "bone morphogenetic protein 5"
+            },
+            {
+                "gene_symbol": "GPLD1",
+                "gene_name": "glycosylphosphatidylinositol specific phospholipase D1"
+            },
+            {
+                "gene_symbol": "SRF",
+                "gene_name": "serum response factor"
+            },
+            {
+                "gene_symbol": "GHR",
+                "gene_name": "growth hormone receptor"
+            },
+            {
+                "gene_symbol": "HAND1",
+                "gene_name": "heart and neural crest derivatives expressed 1"
+            },
+            {
+                "gene_symbol": "SMAD5",
+                "gene_name": "SMAD family member 5"
+            },
+            {
+                "gene_symbol": "WNT5A",
+                "gene_name": "Wnt family member 5A"
+            },
+            {
+                "gene_symbol": "HYAL1",
+                "gene_name": "hyaluronidase 1"
+            },
+            {
+                "gene_symbol": "EFEMP1",
+                "gene_name": "EGF containing fibulin extracellular matrix protein 1"
+            },
+            {
+                "gene_symbol": "DLX2",
+                "gene_name": "distal-less homeobox 2"
+            },
+            {
+                "gene_symbol": "ATF2",
+                "gene_name": "activating transcription factor 2"
+            },
+            {
+                "gene_symbol": "PRRX1",
+                "gene_name": "paired related homeobox 1"
+            },
+            {
+                "gene_symbol": "ERRFI1",
+                "gene_name": "ERBB receptor feedback inhibitor 1"
+            },
+            {
+                "gene_symbol": "MEF2D",
+                "gene_name": "myocyte enhancer factor 2D"
+            },
+            {
+                "gene_symbol": "BMP8B",
+                "gene_name": "bone morphogenetic protein 8b"
+            },
+            {
+                "gene_symbol": "CCN2",
+                "gene_name": "cellular communication network factor 2"
+            },
+            {
+                "gene_symbol": "SATB2",
+                "gene_name": "SATB homeobox 2"
+            },
+            {
+                "gene_symbol": "HOXB3",
+                "gene_name": "homeobox B3"
+            },
+            {
+                "gene_symbol": "MSX2",
+                "gene_name": "msh homeobox 2"
+            },
+            {
+                "gene_symbol": "SNX19",
+                "gene_name": "sorting nexin 19"
+            },
+            {
+                "gene_symbol": "TGFBI",
+                "gene_name": "transforming growth factor beta induced"
+            },
+            {
+                "gene_symbol": "SNAI1",
+                "gene_name": "snail family transcriptional repressor 1"
+            },
+            {
+                "gene_symbol": "RUNX2",
+                "gene_name": "RUNX family transcription factor 2"
+            },
+            {
+                "gene_symbol": "BBS2",
+                "gene_name": "Bardet-Biedl syndrome 2"
+            },
+            {
+                "gene_symbol": "AMELX",
+                "gene_name": "amelogenin X-linked"
+            },
+            {
+                "gene_symbol": "BMP4",
+                "gene_name": "bone morphogenetic protein 4"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "BMP2",
+                "gene_name": "bone morphogenetic protein 2"
+            },
+            {
+                "gene_symbol": "MKKS",
+                "gene_name": "MKKS centrosomal shuttling protein"
+            },
+            {
+                "gene_symbol": "OTOR",
+                "gene_name": "otoraplin"
+            },
+            {
+                "gene_symbol": "GDF5",
+                "gene_name": "growth differentiation factor 5"
+            },
+            {
+                "gene_symbol": "THRA",
+                "gene_name": "thyroid hormone receptor alpha"
+            },
+            {
+                "gene_symbol": "HOXD3",
+                "gene_name": "homeobox D3"
+            },
+            {
+                "gene_symbol": "TWSG1",
+                "gene_name": "twisted gastrulation BMP signaling modulator 1"
+            },
+            {
+                "gene_symbol": "RARA",
+                "gene_name": "retinoic acid receptor alpha"
+            },
+            {
+                "gene_symbol": "CHSY1",
+                "gene_name": "chondroitin sulfate synthase 1"
+            },
+            {
+                "gene_symbol": "MATN3",
+                "gene_name": "matrilin 3"
+            },
+            {
+                "gene_symbol": "CHI3L1",
+                "gene_name": "chitinase 3 like 1"
+            },
+            {
+                "gene_symbol": "LOXL2",
+                "gene_name": "lysyl oxidase like 2"
+            },
+            {
+                "gene_symbol": "WNT2B",
+                "gene_name": "Wnt family member 2B"
+            },
+            {
+                "gene_symbol": "SOX5",
+                "gene_name": "SRY-box transcription factor 5"
+            },
+            {
+                "gene_symbol": "CNMD",
+                "gene_name": "chondromodulin"
+            },
+            {
+                "gene_symbol": "ADAMTS7",
+                "gene_name": "ADAM metallopeptidase with thrombospondin type 1 motif 7"
+            },
+            {
+                "gene_symbol": "CCN3",
+                "gene_name": "cellular communication network factor 3"
+            },
+            {
+                "gene_symbol": "SULF1",
+                "gene_name": "sulfatase 1"
+            },
+            {
+                "gene_symbol": "MMP13",
+                "gene_name": "matrix metallopeptidase 13"
+            },
+            {
+                "gene_symbol": "PRKG2",
+                "gene_name": "protein kinase cGMP-dependent 2"
+            },
+            {
+                "gene_symbol": "FGF2",
+                "gene_name": "fibroblast growth factor 2"
+            },
+            {
+                "gene_symbol": "BMPR1B",
+                "gene_name": "bone morphogenetic protein receptor type 1B"
+            },
+            {
+                "gene_symbol": "COL2A1",
+                "gene_name": "collagen type II alpha 1 chain"
+            },
+            {
+                "gene_symbol": "ACVRL1",
+                "gene_name": "activin A receptor like type 1"
+            },
+            {
+                "gene_symbol": "RB1",
+                "gene_name": "RB transcriptional corepressor 1"
+            },
+            {
+                "gene_symbol": "COL6A1",
+                "gene_name": "collagen type VI alpha 1 chain"
+            },
+            {
+                "gene_symbol": "CCN1",
+                "gene_name": "cellular communication network factor 1"
+            },
+            {
+                "gene_symbol": "ECM1",
+                "gene_name": "extracellular matrix protein 1"
+            },
+            {
+                "gene_symbol": "CTSK",
+                "gene_name": "cathepsin K"
+            },
+            {
+                "gene_symbol": "MBOAT2",
+                "gene_name": "membrane bound O-acyltransferase domain containing 2"
+            },
+            {
+                "gene_symbol": "WNT9A",
+                "gene_name": "Wnt family member 9A"
+            },
+            {
+                "gene_symbol": "OSR1",
+                "gene_name": "odd-skipped related transcription factor 1"
+            },
+            {
+                "gene_symbol": "LNPK",
+                "gene_name": "lunapark, ER junction formation factor"
+            },
+            {
+                "gene_symbol": "SFRP2",
+                "gene_name": "secreted frizzled related protein 2"
+            },
+            {
+                "gene_symbol": "CSGALNACT1",
+                "gene_name": "chondroitin sulfate N-acetylgalactosaminyltransferase 1"
+            },
+            {
+                "gene_symbol": "RSPO2",
+                "gene_name": "R-spondin 2"
+            },
+            {
+                "gene_symbol": "NFIB",
+                "gene_name": "nuclear factor I B"
+            },
+            {
+                "gene_symbol": "CER1",
+                "gene_name": "cerberus 1, DAN family BMP antagonist"
+            },
+            {
+                "gene_symbol": "ZEB1",
+                "gene_name": "zinc finger E-box binding homeobox 1"
+            },
+            {
+                "gene_symbol": "SERPINH1",
+                "gene_name": "serpin family H member 1"
+            },
+            {
+                "gene_symbol": "HMGA2",
+                "gene_name": "high mobility group AT-hook 2"
+            },
+            {
+                "gene_symbol": "EXT2",
+                "gene_name": "exostosin glycosyltransferase 2"
+            },
+            {
+                "gene_symbol": "ADAMTS12",
+                "gene_name": "ADAM metallopeptidase with thrombospondin type 1 motif 12"
+            },
+            {
+                "gene_symbol": "PTH",
+                "gene_name": "parathyroid hormone"
+            },
+            {
+                "gene_symbol": "BMP3",
+                "gene_name": "bone morphogenetic protein 3"
+            },
+            {
+                "gene_symbol": "BMP6",
+                "gene_name": "bone morphogenetic protein 6"
+            },
+            {
+                "gene_symbol": "WNT7A",
+                "gene_name": "Wnt family member 7A"
+            },
+            {
+                "gene_symbol": "SLC26A2",
+                "gene_name": "solute carrier family 26 member 2"
+            },
+            {
+                "gene_symbol": "FGF18",
+                "gene_name": "fibroblast growth factor 18"
+            },
+            {
+                "gene_symbol": "GDF6",
+                "gene_name": "growth differentiation factor 6"
+            },
+            {
+                "gene_symbol": "GHRL",
+                "gene_name": "ghrelin and obestatin prepropeptide"
+            },
+            {
+                "gene_symbol": "ACAN",
+                "gene_name": "aggrecan"
+            },
+            {
+                "gene_symbol": "STC1",
+                "gene_name": "stanniocalcin 1"
+            },
+            {
+                "gene_symbol": "RUNX1",
+                "gene_name": "RUNX family transcription factor 1"
+            },
+            {
+                "gene_symbol": "NPR2",
+                "gene_name": "natriuretic peptide receptor 2"
+            },
+            {
+                "gene_symbol": "CBS",
+                "gene_name": "cystathionine beta-synthase"
+            },
+            {
+                "gene_symbol": "SIK3",
+                "gene_name": "SIK family kinase 3"
+            },
+            {
+                "gene_symbol": "PTH1R",
+                "gene_name": "parathyroid hormone 1 receptor"
+            },
+            {
+                "gene_symbol": "MATN1",
+                "gene_name": "matrilin 1"
+            },
+            {
+                "gene_symbol": "NFIA",
+                "gene_name": "nuclear factor I A"
+            },
+            {
+                "gene_symbol": "PKDCC",
+                "gene_name": "protein kinase domain containing, cytoplasmic"
+            },
+            {
+                "gene_symbol": "FRZB",
+                "gene_name": "frizzled related protein"
+            },
+            {
+                "gene_symbol": "MSX1",
+                "gene_name": "msh homeobox 1"
+            },
+            {
+                "gene_symbol": "BMP10",
+                "gene_name": "bone morphogenetic protein 10"
+            },
+            {
+                "gene_symbol": "NPPC",
+                "gene_name": "natriuretic peptide C"
+            },
+            {
+                "gene_symbol": "PBXIP1",
+                "gene_name": "PBX homeobox interacting protein 1"
+            },
+            {
+                "gene_symbol": "IHH",
+                "gene_name": "Indian hedgehog signaling molecule"
+            },
+            {
+                "gene_symbol": "TGFBR2",
+                "gene_name": "transforming growth factor beta receptor 2"
+            },
+            {
+                "gene_symbol": "HAND2",
+                "gene_name": "heart and neural crest derivatives expressed 2"
+            },
+            {
+                "gene_symbol": "UNCX",
+                "gene_name": "UNC homeobox"
+            },
+            {
+                "gene_symbol": "OSR2",
+                "gene_name": "odd-skipped related transciption factor 2"
+            },
+            {
+                "gene_symbol": "ATP7A",
+                "gene_name": "ATPase copper transporting alpha"
+            },
+            {
+                "gene_symbol": "ZNF219",
+                "gene_name": "zinc finger protein 219"
+            },
+            {
+                "gene_symbol": "GREM1",
+                "gene_name": "gremlin 1, DAN family BMP antagonist"
+            },
+            {
+                "gene_symbol": "SMAD3",
+                "gene_name": "SMAD family member 3"
+            },
+            {
+                "gene_symbol": "CTNNB1",
+                "gene_name": "catenin beta 1"
+            },
+            {
+                "gene_symbol": "LTBP3",
+                "gene_name": "latent transforming growth factor beta binding protein 3"
+            },
+            {
+                "gene_symbol": "BMP1",
+                "gene_name": "bone morphogenetic protein 1"
+            },
+            {
+                "gene_symbol": "COL3A1",
+                "gene_name": "collagen type III alpha 1 chain"
+            },
+            {
+                "gene_symbol": "AXIN2",
+                "gene_name": "axin 2"
+            },
+            {
+                "gene_symbol": "SHOX2",
+                "gene_name": "SHOX homeobox 2"
+            },
+            {
+                "gene_symbol": "THBS3",
+                "gene_name": "thrombospondin 3"
+            },
+            {
+                "gene_symbol": "TAPT1",
+                "gene_name": "transmembrane anterior posterior transformation 1"
+            },
+            {
+                "gene_symbol": "WNT10B",
+                "gene_name": "Wnt family member 10B"
+            },
+            {
+                "gene_symbol": "SMAD1",
+                "gene_name": "SMAD family member 1"
+            },
+            {
+                "gene_symbol": "SIX2",
+                "gene_name": "SIX homeobox 2"
+            },
+            {
+                "gene_symbol": "CYTL1",
+                "gene_name": "cytokine like 1"
+            },
+            {
+                "gene_symbol": "CHST11",
+                "gene_name": "carbohydrate sulfotransferase 11"
+            },
+            {
+                "gene_symbol": "EIF2AK3",
+                "gene_name": "eukaryotic translation initiation factor 2 alpha kinase 3"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "BBS1",
+                "gene_name": "Bardet-Biedl syndrome 1"
+            },
+            {
+                "gene_symbol": "LEP",
+                "gene_name": "leptin"
+            },
+            {
+                "gene_symbol": "SCUBE2",
+                "gene_name": "signal peptide, CUB domain and EGF like domain containing 2"
+            },
+            {
+                "gene_symbol": "MEX3C",
+                "gene_name": "mex-3 RNA binding family member C"
+            },
+            {
+                "gene_symbol": "TYMS",
+                "gene_name": "thymidylate synthetase"
+            },
+            {
+                "gene_symbol": "MAF",
+                "gene_name": "MAF bZIP transcription factor"
+            },
+            {
+                "gene_symbol": "RFLNA",
+                "gene_name": "refilin A"
+            },
+            {
+                "gene_symbol": "PTPN11",
+                "gene_name": "protein tyrosine phosphatase non-receptor type 11"
+            },
+            {
+                "gene_symbol": "CREB3L2",
+                "gene_name": "cAMP responsive element binding protein 3 like 2"
+            },
+            {
+                "gene_symbol": "EXT1",
+                "gene_name": "exostosin glycosyltransferase 1"
+            },
+            {
+                "gene_symbol": "BGN",
+                "gene_name": "biglycan"
+            },
+            {
+                "gene_symbol": "SNORC",
+                "gene_name": "secondary ossification center associated regulator of chondrocyte maturation"
+            },
+            {
+                "gene_symbol": "TSKU",
+                "gene_name": "tsukushi, small leucine rich proteoglycan"
+            },
+            {
+                "gene_symbol": "BMP8A",
+                "gene_name": "bone morphogenetic protein 8a"
+            },
+            {
+                "gene_symbol": "RFLNB",
+                "gene_name": "refilin B"
+            },
+            {
+                "gene_symbol": "NOG",
+                "gene_name": "noggin"
+            },
+            {
+                "gene_symbol": "HYAL3",
+                "gene_name": "hyaluronidase 3"
+            },
+            {
+                "gene_symbol": "WNT7B",
+                "gene_name": "Wnt family member 7B"
+            },
+            {
+                "gene_symbol": "OPTC",
+                "gene_name": "opticin"
+            },
+            {
+                "gene_symbol": "SULF2",
+                "gene_name": "sulfatase 2"
+            },
+            {
+                "gene_symbol": "COL27A1",
+                "gene_name": "collagen type XXVII alpha 1 chain"
+            },
+            {
+                "gene_symbol": "ARID5A",
+                "gene_name": "AT-rich interaction domain 5A"
+            },
+            {
+                "gene_symbol": "HES5",
+                "gene_name": "hes family bHLH transcription factor 5"
+            },
+            {
+                "gene_symbol": "DDRGK1",
+                "gene_name": "DDRGK domain containing 1"
+            },
+            {
+                "gene_symbol": "HOXC4",
+                "gene_name": "homeobox C4"
+            },
+            {
+                "gene_symbol": "BMPR2",
+                "gene_name": "bone morphogenetic protein receptor type 2"
+            },
+            {
+                "gene_symbol": "COL11A2",
+                "gene_name": "collagen type XI alpha 2 chain"
+            },
+            {
+                "gene_symbol": "STIMATE-MUSTN1",
+                "gene_name": "STIMATE-MUSTN1 readthrough"
+            },
+            {
+                "gene_symbol": "SCX",
+                "gene_name": "scleraxis bHLH transcription factor"
+            },
+            {
+                "gene_symbol": "GDF2",
+                "gene_name": "growth differentiation factor 2"
+            },
+            {
+                "gene_symbol": "MUSTN1",
+                "gene_name": "musculoskeletal, embryonic nuclear protein 1"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0060532": {
+        "go_id": "GO:0060532",
+        "go_name": "bronchus cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "SRF",
+                "gene_name": "serum response factor"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Transcriptional regulation of testis differentiation",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Multipotent Pancreatic Progenitor Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Cardiogenesis",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Pancreatic Ductal Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Pancreatic Acinar Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of NPAS4 gene transcription",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages of the Exocrine Pancreas",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of NPAS4 gene expression",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Estrogen-dependent nuclear events downstream of ESR-membrane signaling",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Deactivation of the beta-catenin transactivating complex",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "NGF-stimulated transcription",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional Regulation by NPAS4",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional and post-translational regulation of MITF-M expression and activity",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Nuclear Events (kinase and transcription factor activation)",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Extra-nuclear estrogen signaling",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional regulation by RUNX2",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by NTRK1 (TRKA)",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "RHO GTPases Activate Formins",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by NTRKs",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "TCF dependent signaling in response to WNT",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "MITF-M-regulated melanocyte development",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "ESR-mediated signaling",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by WNT",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "RHO GTPase Effectors",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Nuclear Receptors",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Receptor Tyrosine Kinases",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Generic Transcription Pathway",
+                "genes_found": [
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Rho GTPases",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Rho GTPases, Miro GTPases and RHOBTB3",
+                "genes_found": [
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "RNA Polymerase II Transcription",
+                "genes_found": [
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Gene expression (Transcription)",
+                "genes_found": [
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "SOX9",
+                    "SRF"
+                ]
+            }
+        ]
+    },
+    "GO:0060534": {
+        "go_id": "GO:0060534",
+        "go_name": "trachea cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "HOXA5",
+                "gene_name": "homeobox A5"
+            },
+            {
+                "gene_symbol": "SRF",
+                "gene_name": "serum response factor"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "RARA",
+                "gene_name": "retinoic acid receptor alpha"
+            },
+            {
+                "gene_symbol": "RSPO2",
+                "gene_name": "R-spondin 2"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "WNT7B",
+                "gene_name": "Wnt family member 7B"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Signaling by WNT",
+                "genes_found": [
+                    "RSPO2",
+                    "SOX9",
+                    "WNT7B"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Nuclear Receptors",
+                "genes_found": [
+                    "RARA",
+                    "RARG",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "RARA",
+                    "RARG",
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Generic Transcription Pathway",
+                "genes_found": [
+                    "RARA",
+                    "RARG",
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "RNA Polymerase II Transcription",
+                "genes_found": [
+                    "RARA",
+                    "RARG",
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Gene expression (Transcription)",
+                "genes_found": [
+                    "RARA",
+                    "RARG",
+                    "SOX9",
+                    "SRF"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "RARA",
+                    "RARG",
+                    "SOX9",
+                    "WNT7B",
+                    "RSPO2",
+                    "SRF"
+                ]
+            }
+        ]
+    },
+    "GO:0003417": {
+        "go_id": "GO:0003417",
+        "go_name": "growth plate cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "IFT80",
+                "gene_name": "intraflagellar transport 80"
+            },
+            {
+                "gene_symbol": "FOSL2",
+                "gene_name": "FOS like 2, AP-1 transcription factor subunit"
+            },
+            {
+                "gene_symbol": "RARB",
+                "gene_name": "retinoic acid receptor beta"
+            },
+            {
+                "gene_symbol": "ZMPSTE24",
+                "gene_name": "zinc metallopeptidase STE24"
+            },
+            {
+                "gene_symbol": "COMP",
+                "gene_name": "cartilage oligomeric matrix protein"
+            },
+            {
+                "gene_symbol": "ATF2",
+                "gene_name": "activating transcription factor 2"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "RARA",
+                "gene_name": "retinoic acid receptor alpha"
+            },
+            {
+                "gene_symbol": "MMP13",
+                "gene_name": "matrix metallopeptidase 13"
+            },
+            {
+                "gene_symbol": "CER1",
+                "gene_name": "cerberus 1, DAN family BMP antagonist"
+            },
+            {
+                "gene_symbol": "STC1",
+                "gene_name": "stanniocalcin 1"
+            },
+            {
+                "gene_symbol": "NPR2",
+                "gene_name": "natriuretic peptide receptor 2"
+            },
+            {
+                "gene_symbol": "MATN1",
+                "gene_name": "matrilin 1"
+            },
+            {
+                "gene_symbol": "NPPC",
+                "gene_name": "natriuretic peptide C"
+            },
+            {
+                "gene_symbol": "TGFBR2",
+                "gene_name": "transforming growth factor beta receptor 2"
+            },
+            {
+                "gene_symbol": "THBS3",
+                "gene_name": "thrombospondin 3"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "TSKU",
+                "gene_name": "tsukushi, small leucine rich proteoglycan"
+            },
+            {
+                "gene_symbol": "COL27A1",
+                "gene_name": "collagen type XXVII alpha 1 chain"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0061035": {
+        "go_id": "GO:0061035",
+        "go_name": "regulation of cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "HOXA11",
+                "gene_name": "homeobox A11"
+            },
+            {
+                "gene_symbol": "SCIN",
+                "gene_name": "scinderin"
+            },
+            {
+                "gene_symbol": "SNAI2",
+                "gene_name": "snail family transcriptional repressor 2"
+            },
+            {
+                "gene_symbol": "GLI2",
+                "gene_name": "GLI family zinc finger 2"
+            },
+            {
+                "gene_symbol": "RARB",
+                "gene_name": "retinoic acid receptor beta"
+            },
+            {
+                "gene_symbol": "WNT11",
+                "gene_name": "Wnt family member 11"
+            },
+            {
+                "gene_symbol": "PTHLH",
+                "gene_name": "parathyroid hormone like hormone"
+            },
+            {
+                "gene_symbol": "GLG1",
+                "gene_name": "golgi glycoprotein 1"
+            },
+            {
+                "gene_symbol": "CHADL",
+                "gene_name": "chondroadherin like"
+            },
+            {
+                "gene_symbol": "SMAD7",
+                "gene_name": "SMAD family member 7"
+            },
+            {
+                "gene_symbol": "SMPD3",
+                "gene_name": "sphingomyelin phosphodiesterase 3"
+            },
+            {
+                "gene_symbol": "CCN4",
+                "gene_name": "cellular communication network factor 4"
+            },
+            {
+                "gene_symbol": "TRPS1",
+                "gene_name": "transcriptional repressor GATA binding 1"
+            },
+            {
+                "gene_symbol": "TGFB1",
+                "gene_name": "transforming growth factor beta 1"
+            },
+            {
+                "gene_symbol": "GLI3",
+                "gene_name": "GLI family zinc finger 3"
+            },
+            {
+                "gene_symbol": "TGFBR1",
+                "gene_name": "transforming growth factor beta receptor 1"
+            },
+            {
+                "gene_symbol": "KAT2A",
+                "gene_name": "lysine acetyltransferase 2A"
+            },
+            {
+                "gene_symbol": "NKX3-2",
+                "gene_name": "NK3 homeobox 2"
+            },
+            {
+                "gene_symbol": "ZBTB16",
+                "gene_name": "zinc finger and BTB domain containing 16"
+            },
+            {
+                "gene_symbol": "MDK",
+                "gene_name": "midkine"
+            },
+            {
+                "gene_symbol": "SOX6",
+                "gene_name": "SRY-box transcription factor 6"
+            },
+            {
+                "gene_symbol": "WNT5A",
+                "gene_name": "Wnt family member 5A"
+            },
+            {
+                "gene_symbol": "EFEMP1",
+                "gene_name": "EGF containing fibulin extracellular matrix protein 1"
+            },
+            {
+                "gene_symbol": "CCN2",
+                "gene_name": "cellular communication network factor 2"
+            },
+            {
+                "gene_symbol": "RUNX2",
+                "gene_name": "RUNX family transcription factor 2"
+            },
+            {
+                "gene_symbol": "BMP4",
+                "gene_name": "bone morphogenetic protein 4"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "BMP2",
+                "gene_name": "bone morphogenetic protein 2"
+            },
+            {
+                "gene_symbol": "GDF5",
+                "gene_name": "growth differentiation factor 5"
+            },
+            {
+                "gene_symbol": "RARA",
+                "gene_name": "retinoic acid receptor alpha"
+            },
+            {
+                "gene_symbol": "LOXL2",
+                "gene_name": "lysyl oxidase like 2"
+            },
+            {
+                "gene_symbol": "SOX5",
+                "gene_name": "SRY-box transcription factor 5"
+            },
+            {
+                "gene_symbol": "ADAMTS7",
+                "gene_name": "ADAM metallopeptidase with thrombospondin type 1 motif 7"
+            },
+            {
+                "gene_symbol": "PRKG2",
+                "gene_name": "protein kinase cGMP-dependent 2"
+            },
+            {
+                "gene_symbol": "BMPR1B",
+                "gene_name": "bone morphogenetic protein receptor type 1B"
+            },
+            {
+                "gene_symbol": "ACVRL1",
+                "gene_name": "activin A receptor like type 1"
+            },
+            {
+                "gene_symbol": "CCN1",
+                "gene_name": "cellular communication network factor 1"
+            },
+            {
+                "gene_symbol": "CTSK",
+                "gene_name": "cathepsin K"
+            },
+            {
+                "gene_symbol": "MBOAT2",
+                "gene_name": "membrane bound O-acyltransferase domain containing 2"
+            },
+            {
+                "gene_symbol": "WNT9A",
+                "gene_name": "Wnt family member 9A"
+            },
+            {
+                "gene_symbol": "LNPK",
+                "gene_name": "lunapark, ER junction formation factor"
+            },
+            {
+                "gene_symbol": "ADAMTS12",
+                "gene_name": "ADAM metallopeptidase with thrombospondin type 1 motif 12"
+            },
+            {
+                "gene_symbol": "PTH",
+                "gene_name": "parathyroid hormone"
+            },
+            {
+                "gene_symbol": "BMP6",
+                "gene_name": "bone morphogenetic protein 6"
+            },
+            {
+                "gene_symbol": "FGF18",
+                "gene_name": "fibroblast growth factor 18"
+            },
+            {
+                "gene_symbol": "GDF6",
+                "gene_name": "growth differentiation factor 6"
+            },
+            {
+                "gene_symbol": "PKDCC",
+                "gene_name": "protein kinase domain containing, cytoplasmic"
+            },
+            {
+                "gene_symbol": "FRZB",
+                "gene_name": "frizzled related protein"
+            },
+            {
+                "gene_symbol": "BMP10",
+                "gene_name": "bone morphogenetic protein 10"
+            },
+            {
+                "gene_symbol": "IHH",
+                "gene_name": "Indian hedgehog signaling molecule"
+            },
+            {
+                "gene_symbol": "ZNF219",
+                "gene_name": "zinc finger protein 219"
+            },
+            {
+                "gene_symbol": "GREM1",
+                "gene_name": "gremlin 1, DAN family BMP antagonist"
+            },
+            {
+                "gene_symbol": "SMAD3",
+                "gene_name": "SMAD family member 3"
+            },
+            {
+                "gene_symbol": "CTNNB1",
+                "gene_name": "catenin beta 1"
+            },
+            {
+                "gene_symbol": "LTBP3",
+                "gene_name": "latent transforming growth factor beta binding protein 3"
+            },
+            {
+                "gene_symbol": "BMP1",
+                "gene_name": "bone morphogenetic protein 1"
+            },
+            {
+                "gene_symbol": "AXIN2",
+                "gene_name": "axin 2"
+            },
+            {
+                "gene_symbol": "SHOX2",
+                "gene_name": "SHOX homeobox 2"
+            },
+            {
+                "gene_symbol": "TAPT1",
+                "gene_name": "transmembrane anterior posterior transformation 1"
+            },
+            {
+                "gene_symbol": "SMAD1",
+                "gene_name": "SMAD family member 1"
+            },
+            {
+                "gene_symbol": "SIX2",
+                "gene_name": "SIX homeobox 2"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "LEP",
+                "gene_name": "leptin"
+            },
+            {
+                "gene_symbol": "MAF",
+                "gene_name": "MAF bZIP transcription factor"
+            },
+            {
+                "gene_symbol": "RFLNA",
+                "gene_name": "refilin A"
+            },
+            {
+                "gene_symbol": "PTPN11",
+                "gene_name": "protein tyrosine phosphatase non-receptor type 11"
+            },
+            {
+                "gene_symbol": "RFLNB",
+                "gene_name": "refilin B"
+            },
+            {
+                "gene_symbol": "NOG",
+                "gene_name": "noggin"
+            },
+            {
+                "gene_symbol": "BMPR2",
+                "gene_name": "bone morphogenetic protein receptor type 2"
+            },
+            {
+                "gene_symbol": "SCX",
+                "gene_name": "scleraxis bHLH transcription factor"
+            },
+            {
+                "gene_symbol": "GDF2",
+                "gene_name": "growth differentiation factor 2"
+            },
+            {
+                "gene_symbol": "MUSTN1",
+                "gene_name": "musculoskeletal, embryonic nuclear protein 1"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:1990079": {
+        "go_id": "GO:1990079",
+        "go_name": "cartilage homeostasis",
+        "genes": [
+            {
+                "gene_symbol": "COMP",
+                "gene_name": "cartilage oligomeric matrix protein"
+            },
+            {
+                "gene_symbol": "SLC39A8",
+                "gene_name": "solute carrier family 39 member 8"
+            },
+            {
+                "gene_symbol": "CYTL1",
+                "gene_name": "cytokine like 1"
+            },
+            {
+                "gene_symbol": "MTF1",
+                "gene_name": "metal regulatory transcription factor 1"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0060536": {
+        "go_id": "GO:0060536",
+        "go_name": "cartilage morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "SNAI2",
+                "gene_name": "snail family transcriptional repressor 2"
+            },
+            {
+                "gene_symbol": "HOXA5",
+                "gene_name": "homeobox A5"
+            },
+            {
+                "gene_symbol": "HAND1",
+                "gene_name": "heart and neural crest derivatives expressed 1"
+            },
+            {
+                "gene_symbol": "SNAI1",
+                "gene_name": "snail family transcriptional repressor 1"
+            },
+            {
+                "gene_symbol": "RSPO2",
+                "gene_name": "R-spondin 2"
+            },
+            {
+                "gene_symbol": "STC1",
+                "gene_name": "stanniocalcin 1"
+            },
+            {
+                "gene_symbol": "MATN1",
+                "gene_name": "matrilin 1"
+            },
+            {
+                "gene_symbol": "MSX1",
+                "gene_name": "msh homeobox 1"
+            },
+            {
+                "gene_symbol": "HAND2",
+                "gene_name": "heart and neural crest derivatives expressed 2"
+            },
+            {
+                "gene_symbol": "WNT7B",
+                "gene_name": "Wnt family member 7B"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "SNAI1",
+                    "SNAI2",
+                    "MSX1",
+                    "HAND2",
+                    "HAND1"
+                ]
+            }
+        ]
+    },
+    "GO:0001502": {
+        "go_id": "GO:0001502",
+        "go_name": "cartilage condensation",
+        "genes": [
+            {
+                "gene_symbol": "PKD1",
+                "gene_name": "polycystin 1, transient receptor potential channel interacting"
+            },
+            {
+                "gene_symbol": "BARX2",
+                "gene_name": "BARX homeobox 2"
+            },
+            {
+                "gene_symbol": "COL11A1",
+                "gene_name": "collagen type XI alpha 1 chain"
+            },
+            {
+                "gene_symbol": "FGF4",
+                "gene_name": "fibroblast growth factor 4"
+            },
+            {
+                "gene_symbol": "SOX6",
+                "gene_name": "SRY-box transcription factor 6"
+            },
+            {
+                "gene_symbol": "MYF5",
+                "gene_name": "myogenic factor 5"
+            },
+            {
+                "gene_symbol": "FGF6",
+                "gene_name": "fibroblast growth factor 6"
+            },
+            {
+                "gene_symbol": "MGP",
+                "gene_name": "matrix Gla protein"
+            },
+            {
+                "gene_symbol": "MAPK14",
+                "gene_name": "mitogen-activated protein kinase 14"
+            },
+            {
+                "gene_symbol": "CCN2",
+                "gene_name": "cellular communication network factor 2"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "OTOR",
+                "gene_name": "otoraplin"
+            },
+            {
+                "gene_symbol": "THRA",
+                "gene_name": "thyroid hormone receptor alpha"
+            },
+            {
+                "gene_symbol": "SOX5",
+                "gene_name": "SRY-box transcription factor 5"
+            },
+            {
+                "gene_symbol": "BMPR1B",
+                "gene_name": "bone morphogenetic protein receptor type 1B"
+            },
+            {
+                "gene_symbol": "COL2A1",
+                "gene_name": "collagen type II alpha 1 chain"
+            },
+            {
+                "gene_symbol": "WNT7A",
+                "gene_name": "Wnt family member 7A"
+            },
+            {
+                "gene_symbol": "ACAN",
+                "gene_name": "aggrecan"
+            },
+            {
+                "gene_symbol": "UNCX",
+                "gene_name": "UNC homeobox"
+            },
+            {
+                "gene_symbol": "BMP1",
+                "gene_name": "bone morphogenetic protein 1"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0061036": {
+        "go_id": "GO:0061036",
+        "go_name": "positive regulation of cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "HOXA11",
+                "gene_name": "homeobox A11"
+            },
+            {
+                "gene_symbol": "SMAD7",
+                "gene_name": "SMAD family member 7"
+            },
+            {
+                "gene_symbol": "GLI3",
+                "gene_name": "GLI family zinc finger 3"
+            },
+            {
+                "gene_symbol": "ZBTB16",
+                "gene_name": "zinc finger and BTB domain containing 16"
+            },
+            {
+                "gene_symbol": "MDK",
+                "gene_name": "midkine"
+            },
+            {
+                "gene_symbol": "SOX6",
+                "gene_name": "SRY-box transcription factor 6"
+            },
+            {
+                "gene_symbol": "WNT5A",
+                "gene_name": "Wnt family member 5A"
+            },
+            {
+                "gene_symbol": "RUNX2",
+                "gene_name": "RUNX family transcription factor 2"
+            },
+            {
+                "gene_symbol": "BMP4",
+                "gene_name": "bone morphogenetic protein 4"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "BMP2",
+                "gene_name": "bone morphogenetic protein 2"
+            },
+            {
+                "gene_symbol": "GDF5",
+                "gene_name": "growth differentiation factor 5"
+            },
+            {
+                "gene_symbol": "LOXL2",
+                "gene_name": "lysyl oxidase like 2"
+            },
+            {
+                "gene_symbol": "SOX5",
+                "gene_name": "SRY-box transcription factor 5"
+            },
+            {
+                "gene_symbol": "PRKG2",
+                "gene_name": "protein kinase cGMP-dependent 2"
+            },
+            {
+                "gene_symbol": "BMPR1B",
+                "gene_name": "bone morphogenetic protein receptor type 1B"
+            },
+            {
+                "gene_symbol": "ACVRL1",
+                "gene_name": "activin A receptor like type 1"
+            },
+            {
+                "gene_symbol": "CCN1",
+                "gene_name": "cellular communication network factor 1"
+            },
+            {
+                "gene_symbol": "BMP6",
+                "gene_name": "bone morphogenetic protein 6"
+            },
+            {
+                "gene_symbol": "FGF18",
+                "gene_name": "fibroblast growth factor 18"
+            },
+            {
+                "gene_symbol": "GDF6",
+                "gene_name": "growth differentiation factor 6"
+            },
+            {
+                "gene_symbol": "PKDCC",
+                "gene_name": "protein kinase domain containing, cytoplasmic"
+            },
+            {
+                "gene_symbol": "BMP10",
+                "gene_name": "bone morphogenetic protein 10"
+            },
+            {
+                "gene_symbol": "ZNF219",
+                "gene_name": "zinc finger protein 219"
+            },
+            {
+                "gene_symbol": "SMAD3",
+                "gene_name": "SMAD family member 3"
+            },
+            {
+                "gene_symbol": "BMP1",
+                "gene_name": "bone morphogenetic protein 1"
+            },
+            {
+                "gene_symbol": "TAPT1",
+                "gene_name": "transmembrane anterior posterior transformation 1"
+            },
+            {
+                "gene_symbol": "SMAD1",
+                "gene_name": "SMAD family member 1"
+            },
+            {
+                "gene_symbol": "BMPR2",
+                "gene_name": "bone morphogenetic protein receptor type 2"
+            },
+            {
+                "gene_symbol": "SCX",
+                "gene_name": "scleraxis bHLH transcription factor"
+            },
+            {
+                "gene_symbol": "GDF2",
+                "gene_name": "growth differentiation factor 2"
+            },
+            {
+                "gene_symbol": "MUSTN1",
+                "gene_name": "musculoskeletal, embryonic nuclear protein 1"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0061037": {
+        "go_id": "GO:0061037",
+        "go_name": "negative regulation of cartilage development",
+        "genes": [
+            {
+                "gene_symbol": "SNAI2",
+                "gene_name": "snail family transcriptional repressor 2"
+            },
+            {
+                "gene_symbol": "GLI2",
+                "gene_name": "GLI family zinc finger 2"
+            },
+            {
+                "gene_symbol": "RARB",
+                "gene_name": "retinoic acid receptor beta"
+            },
+            {
+                "gene_symbol": "WNT11",
+                "gene_name": "Wnt family member 11"
+            },
+            {
+                "gene_symbol": "PTHLH",
+                "gene_name": "parathyroid hormone like hormone"
+            },
+            {
+                "gene_symbol": "CHADL",
+                "gene_name": "chondroadherin like"
+            },
+            {
+                "gene_symbol": "CCN4",
+                "gene_name": "cellular communication network factor 4"
+            },
+            {
+                "gene_symbol": "GLI3",
+                "gene_name": "GLI family zinc finger 3"
+            },
+            {
+                "gene_symbol": "TGFBR1",
+                "gene_name": "transforming growth factor beta receptor 1"
+            },
+            {
+                "gene_symbol": "NKX3-2",
+                "gene_name": "NK3 homeobox 2"
+            },
+            {
+                "gene_symbol": "EFEMP1",
+                "gene_name": "EGF containing fibulin extracellular matrix protein 1"
+            },
+            {
+                "gene_symbol": "BMP4",
+                "gene_name": "bone morphogenetic protein 4"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "GDF5",
+                "gene_name": "growth differentiation factor 5"
+            },
+            {
+                "gene_symbol": "RARA",
+                "gene_name": "retinoic acid receptor alpha"
+            },
+            {
+                "gene_symbol": "ADAMTS7",
+                "gene_name": "ADAM metallopeptidase with thrombospondin type 1 motif 7"
+            },
+            {
+                "gene_symbol": "CTSK",
+                "gene_name": "cathepsin K"
+            },
+            {
+                "gene_symbol": "WNT9A",
+                "gene_name": "Wnt family member 9A"
+            },
+            {
+                "gene_symbol": "ADAMTS12",
+                "gene_name": "ADAM metallopeptidase with thrombospondin type 1 motif 12"
+            },
+            {
+                "gene_symbol": "PTH",
+                "gene_name": "parathyroid hormone"
+            },
+            {
+                "gene_symbol": "FRZB",
+                "gene_name": "frizzled related protein"
+            },
+            {
+                "gene_symbol": "IHH",
+                "gene_name": "Indian hedgehog signaling molecule"
+            },
+            {
+                "gene_symbol": "GREM1",
+                "gene_name": "gremlin 1, DAN family BMP antagonist"
+            },
+            {
+                "gene_symbol": "CTNNB1",
+                "gene_name": "catenin beta 1"
+            },
+            {
+                "gene_symbol": "LTBP3",
+                "gene_name": "latent transforming growth factor beta binding protein 3"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "LEP",
+                "gene_name": "leptin"
+            },
+            {
+                "gene_symbol": "RFLNA",
+                "gene_name": "refilin A"
+            },
+            {
+                "gene_symbol": "PTPN11",
+                "gene_name": "protein tyrosine phosphatase non-receptor type 11"
+            },
+            {
+                "gene_symbol": "RFLNB",
+                "gene_name": "refilin B"
+            },
+            {
+                "gene_symbol": "NOG",
+                "gene_name": "noggin"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0003431": {
+        "go_id": "GO:0003431",
+        "go_name": "growth plate cartilage chondrocyte development",
+        "genes": [
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "TGFBR2",
+                "gene_name": "transforming growth factor beta receptor 2"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "TSKU",
+                "gene_name": "tsukushi, small leucine rich proteoglycan"
+            },
+            {
+                "gene_symbol": "COL27A1",
+                "gene_name": "collagen type XXVII alpha 1 chain"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Developmental Lineage of Pancreatic Ductal Cells",
+                "genes_found": [
+                    "SOX9",
+                    "COL27A1"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional regulation of testis differentiation",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Multipotent Pancreatic Progenitor Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages of the Exocrine Pancreas",
+                "genes_found": [
+                    "SOX9",
+                    "COL27A1"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Pancreatic Acinar Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages",
+                "genes_found": [
+                    "SOX9",
+                    "COL27A1"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "RARG",
+                    "SOX9",
+                    "COL27A1"
+                ]
+            },
+            {
+                "pathway_name": "Generic Transcription Pathway",
+                "genes_found": [
+                    "RARG",
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "RNA Polymerase II Transcription",
+                "genes_found": [
+                    "RARG",
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "TGFBR2",
+                    "RARG",
+                    "SOX9",
+                    "COL27A1"
+                ]
+            },
+            {
+                "pathway_name": "Gene expression (Transcription)",
+                "genes_found": [
+                    "RARG",
+                    "SOX9"
+                ]
+            }
+        ]
+    },
+    "GO:0060351": {
+        "go_id": "GO:0060351",
+        "go_name": "cartilage development involved in endochondral bone morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "HOXA11",
+                "gene_name": "homeobox A11"
+            },
+            {
+                "gene_symbol": "IFT80",
+                "gene_name": "intraflagellar transport 80"
+            },
+            {
+                "gene_symbol": "FOSL2",
+                "gene_name": "FOS like 2, AP-1 transcription factor subunit"
+            },
+            {
+                "gene_symbol": "RARB",
+                "gene_name": "retinoic acid receptor beta"
+            },
+            {
+                "gene_symbol": "ZMPSTE24",
+                "gene_name": "zinc metallopeptidase STE24"
+            },
+            {
+                "gene_symbol": "TRIP11",
+                "gene_name": "thyroid hormone receptor interactor 11"
+            },
+            {
+                "gene_symbol": "SMPD3",
+                "gene_name": "sphingomyelin phosphodiesterase 3"
+            },
+            {
+                "gene_symbol": "COMP",
+                "gene_name": "cartilage oligomeric matrix protein"
+            },
+            {
+                "gene_symbol": "COL1A1",
+                "gene_name": "collagen type I alpha 1 chain"
+            },
+            {
+                "gene_symbol": "TRPV4",
+                "gene_name": "transient receptor potential cation channel subfamily V member 4"
+            },
+            {
+                "gene_symbol": "GHR",
+                "gene_name": "growth hormone receptor"
+            },
+            {
+                "gene_symbol": "ATF2",
+                "gene_name": "activating transcription factor 2"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "RARA",
+                "gene_name": "retinoic acid receptor alpha"
+            },
+            {
+                "gene_symbol": "MMP13",
+                "gene_name": "matrix metallopeptidase 13"
+            },
+            {
+                "gene_symbol": "COL2A1",
+                "gene_name": "collagen type II alpha 1 chain"
+            },
+            {
+                "gene_symbol": "CER1",
+                "gene_name": "cerberus 1, DAN family BMP antagonist"
+            },
+            {
+                "gene_symbol": "SERPINH1",
+                "gene_name": "serpin family H member 1"
+            },
+            {
+                "gene_symbol": "STC1",
+                "gene_name": "stanniocalcin 1"
+            },
+            {
+                "gene_symbol": "NPR2",
+                "gene_name": "natriuretic peptide receptor 2"
+            },
+            {
+                "gene_symbol": "CBS",
+                "gene_name": "cystathionine beta-synthase"
+            },
+            {
+                "gene_symbol": "SIK3",
+                "gene_name": "SIK family kinase 3"
+            },
+            {
+                "gene_symbol": "MATN1",
+                "gene_name": "matrilin 1"
+            },
+            {
+                "gene_symbol": "NPPC",
+                "gene_name": "natriuretic peptide C"
+            },
+            {
+                "gene_symbol": "IHH",
+                "gene_name": "Indian hedgehog signaling molecule"
+            },
+            {
+                "gene_symbol": "TGFBR2",
+                "gene_name": "transforming growth factor beta receptor 2"
+            },
+            {
+                "gene_symbol": "AXIN2",
+                "gene_name": "axin 2"
+            },
+            {
+                "gene_symbol": "SHOX2",
+                "gene_name": "SHOX homeobox 2"
+            },
+            {
+                "gene_symbol": "THBS3",
+                "gene_name": "thrombospondin 3"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "SCUBE2",
+                "gene_name": "signal peptide, CUB domain and EGF like domain containing 2"
+            },
+            {
+                "gene_symbol": "EXT1",
+                "gene_name": "exostosin glycosyltransferase 1"
+            },
+            {
+                "gene_symbol": "TSKU",
+                "gene_name": "tsukushi, small leucine rich proteoglycan"
+            },
+            {
+                "gene_symbol": "COL27A1",
+                "gene_name": "collagen type XXVII alpha 1 chain"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0060533": {
+        "go_id": "GO:0060533",
+        "go_name": "bronchus cartilage morphogenesis",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0060535": {
+        "go_id": "GO:0060535",
+        "go_name": "trachea cartilage morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "HOXA5",
+                "gene_name": "homeobox A5"
+            },
+            {
+                "gene_symbol": "RSPO2",
+                "gene_name": "R-spondin 2"
+            },
+            {
+                "gene_symbol": "WNT7B",
+                "gene_name": "Wnt family member 7B"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Regulation of FZD by ubiquitination",
+                "genes_found": [
+                    "RSPO2"
+                ]
+            },
+            {
+                "pathway_name": "WNT ligand biogenesis and trafficking",
+                "genes_found": [
+                    "WNT7B"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by WNT",
+                "genes_found": [
+                    "RSPO2",
+                    "WNT7B"
+                ]
+            },
+            {
+                "pathway_name": "Class B/2 (Secretin family receptors)",
+                "genes_found": [
+                    "WNT7B"
+                ]
+            },
+            {
+                "pathway_name": "TCF dependent signaling in response to WNT",
+                "genes_found": [
+                    "RSPO2"
+                ]
+            },
+            {
+                "pathway_name": "GPCR ligand binding",
+                "genes_found": [
+                    "WNT7B"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by GPCR",
+                "genes_found": [
+                    "WNT7B"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "RSPO2",
+                    "WNT7B"
+                ]
+            }
+        ]
+    },
+    "GO:0003422": {
+        "go_id": "GO:0003422",
+        "go_name": "growth plate cartilage morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "STC1",
+                "gene_name": "stanniocalcin 1"
+            },
+            {
+                "gene_symbol": "MATN1",
+                "gene_name": "matrilin 1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "ECM proteoglycans",
+                "genes_found": [
+                    "MATN1"
+                ]
+            },
+            {
+                "pathway_name": "Extracellular matrix organization",
+                "genes_found": [
+                    "MATN1"
+                ]
+            }
+        ]
+    },
+    "GO:1902026": {
+        "go_id": "GO:1902026",
+        "go_name": "regulation of cartilage condensation",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0003421": {
+        "go_id": "GO:0003421",
+        "go_name": "growth plate cartilage axis specification",
+        "genes": [
+            {
+                "gene_symbol": "STC1",
+                "gene_name": "stanniocalcin 1"
+            }
+        ],
+        "pathways": []
+    },
+    "GO:0003430": {
+        "go_id": "GO:0003430",
+        "go_name": "growth plate cartilage chondrocyte growth",
+        "genes": [
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "TGFBR2",
+                "gene_name": "transforming growth factor beta receptor 2"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Transcriptional regulation of testis differentiation",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Multipotent Pancreatic Progenitor Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "TGFBR2 MSI Frameshift Mutants in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Pancreatic Ductal Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Loss of Function of TGFBR2 in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "TGFBR1 LBD Mutants in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "TGFBR2 Kinase Domain Mutants in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Lineage of Pancreatic Acinar Cells",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "TGFBR1 KD Mutants in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Loss of Function of TGFBR1 in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "SMAD2/3 Phosphorylation Motif Mutants in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Loss of Function of SMAD2/3 in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by TGF-beta Receptor Complex in Cancer",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "TGFBR3 regulates TGF-beta signaling",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages of the Exocrine Pancreas",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Downregulation of TGF-beta receptor signaling",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Deactivation of the beta-catenin transactivating complex",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "TGF-beta receptor signaling activates SMADs",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by TGFBR3",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Retinoic Acid",
+                "genes_found": [
+                    "RARG"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional and post-translational regulation of MITF-M expression and activity",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "UCH proteinases",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Nuclear Receptor transcription pathway",
+                "genes_found": [
+                    "RARG"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by TGF-beta Receptor Complex",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Activation of HOX genes during differentiation",
+                "genes_found": [
+                    "RARG"
+                ]
+            },
+            {
+                "pathway_name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
+                "genes_found": [
+                    "RARG"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional regulation by RUNX2",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by TGFB family members",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "TCF dependent signaling in response to WNT",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "MITF-M-regulated melanocyte development",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "RARG",
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Deubiquitination",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by WNT",
+                "genes_found": [
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Nuclear Receptors",
+                "genes_found": [
+                    "RARG"
+                ]
+            },
+            {
+                "pathway_name": "Diseases of signal transduction by growth factor receptors and second messengers",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Generic Transcription Pathway",
+                "genes_found": [
+                    "RARG",
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "RNA Polymerase II Transcription",
+                "genes_found": [
+                    "RARG",
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Gene expression (Transcription)",
+                "genes_found": [
+                    "RARG",
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "TGFBR2",
+                    "RARG",
+                    "SOX9"
+                ]
+            },
+            {
+                "pathway_name": "Post-translational protein modification",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Metabolism of proteins",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            },
+            {
+                "pathway_name": "Disease",
+                "genes_found": [
+                    "TGFBR2"
+                ]
+            }
+        ]
+    },
+    "GO:0003418": {
+        "go_id": "GO:0003418",
+        "go_name": "growth plate cartilage chondrocyte differentiation",
+        "genes": [
+            {
+                "gene_symbol": "IFT80",
+                "gene_name": "intraflagellar transport 80"
+            },
+            {
+                "gene_symbol": "ATF2",
+                "gene_name": "activating transcription factor 2"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "MATN1",
+                "gene_name": "matrilin 1"
+            },
+            {
+                "gene_symbol": "NPPC",
+                "gene_name": "natriuretic peptide C"
+            },
+            {
+                "gene_symbol": "TGFBR2",
+                "gene_name": "transforming growth factor beta receptor 2"
+            },
+            {
+                "gene_symbol": "RARG",
+                "gene_name": "retinoic acid receptor gamma"
+            },
+            {
+                "gene_symbol": "TSKU",
+                "gene_name": "tsukushi, small leucine rich proteoglycan"
+            },
+            {
+                "gene_symbol": "COL27A1",
+                "gene_name": "collagen type XXVII alpha 1 chain"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "RARG",
+                    "SOX9",
+                    "COL27A1"
+                ]
+            }
+        ]
+    },
+    "GO:0003419": {
+        "go_id": "GO:0003419",
+        "go_name": "growth plate cartilage chondrocyte proliferation",
+        "genes": [
+            {
+                "gene_symbol": "ATF2",
+                "gene_name": "activating transcription factor 2"
+            },
+            {
+                "gene_symbol": "CER1",
+                "gene_name": "cerberus 1, DAN family BMP antagonist"
+            },
+            {
+                "gene_symbol": "NPPC",
+                "gene_name": "natriuretic peptide C"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "Developmental Lineage of Multipotent Pancreatic Progenitor Cells",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Activation of the AP-1 family of transcription factors",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of signaling by NODAL",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages of the Exocrine Pancreas",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Physiological factors",
+                "genes_found": [
+                    "NPPC"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by NODAL",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by BMP",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "MAPK targets/ Nuclear events mediated by MAP kinases",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Cell Lineages",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Expression of BMAL (ARNTL), CLOCK, and NPAS2",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "NGF-stimulated transcription",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Regulation of PTEN gene transcription",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "MAP kinase activation",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Heme signaling",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Interleukin-17 signaling",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Nuclear Events (kinase and transcription factor activation)",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "TP53 Regulates Transcription of DNA Repair Genes",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional activation of mitochondrial biogenesis",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "MyD88 cascade initiated on plasma membrane",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor 5 (TLR5) Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor 10 (TLR10) Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "HATs acetylate histones",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Response of EIF2AK4 (GCN2) to amino acid deficiency",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor 3 (TLR3) Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "MyD88 dependent cascade initiated on endosome",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "TRIF (TICAM1)-mediated TLR4 signaling ",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "MyD88-independent TLR4 cascade ",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor 7/8 (TLR7/8) Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor 9 (TLR9) Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Mitochondrial biogenesis",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "MyD88:MAL(TIRAP) cascade initiated on plasma membrane",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor TLR6:TLR2 Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor TLR1:TLR2 Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor 2 (TLR2) Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by NTRK1 (TRKA)",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Cardiac conduction",
+                "genes_found": [
+                    "NPPC"
+                ]
+            },
+            {
+                "pathway_name": "Circadian clock",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Estrogen-dependent gene expression",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "PTEN Regulation",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Toll Like Receptor 4 (TLR4) Cascade",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by NTRKs",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Cellular response to starvation",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by TGFB family members",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Toll-like Receptor Cascades",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Muscle contraction",
+                "genes_found": [
+                    "NPPC"
+                ]
+            },
+            {
+                "pathway_name": "Chromatin modifying enzymes",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "ESR-mediated signaling",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Chromatin organization",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "PIP3 activates AKT signaling",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Organelle biogenesis and maintenance",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Intracellular signaling by second messengers",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Nuclear Receptors",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Transcriptional Regulation by TP53",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Receptor Tyrosine Kinases",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Signaling by Interleukins",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Cellular responses to stress",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Developmental Biology",
+                "genes_found": [
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Cytokine Signaling in Immune system",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Cellular responses to stimuli",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Innate Immune System",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Generic Transcription Pathway",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "RNA Polymerase II Transcription",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Signal Transduction",
+                "genes_found": [
+                    "ATF2",
+                    "CER1"
+                ]
+            },
+            {
+                "pathway_name": "Gene expression (Transcription)",
+                "genes_found": [
+                    "ATF2"
+                ]
+            },
+            {
+                "pathway_name": "Immune System",
+                "genes_found": [
+                    "ATF2"
+                ]
+            }
+        ]
+    },
+    "GO:1902027": {
+        "go_id": "GO:1902027",
+        "go_name": "positive regulation of cartilage condensation",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:1904932": {
+        "go_id": "GO:1904932",
+        "go_name": "negative regulation of cartilage condensation",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0003423": {
+        "go_id": "GO:0003423",
+        "go_name": "growth plate cartilage chondrocyte division",
+        "genes": [],
+        "pathways": []
+    },
+    "GO:0003429": {
+        "go_id": "GO:0003429",
+        "go_name": "growth plate cartilage chondrocyte morphogenesis",
+        "genes": [
+            {
+                "gene_symbol": "MATN1",
+                "gene_name": "matrilin 1"
+            }
+        ],
+        "pathways": [
+            {
+                "pathway_name": "ECM proteoglycans",
+                "genes_found": [
+                    "MATN1"
+                ]
+            },
+            {
+                "pathway_name": "Extracellular matrix organization",
+                "genes_found": [
+                    "MATN1"
+                ]
+            }
+        ]
+    },
+    "GO:0035988": {
+        "go_id": "GO:0035988",
+        "go_name": "chondrocyte proliferation",
+        "genes": [
+            {
+                "gene_symbol": "LTF",
+                "gene_name": "lactotransferrin"
+            },
+            {
+                "gene_symbol": "FGFR3",
+                "gene_name": "fibroblast growth factor receptor 3"
+            },
+            {
+                "gene_symbol": "FOSL2",
+                "gene_name": "FOS like 2, AP-1 transcription factor subunit"
+            },
+            {
+                "gene_symbol": "SIRT6",
+                "gene_name": "sirtuin 6"
+            },
+            {
+                "gene_symbol": "SMAD7",
+                "gene_name": "SMAD family member 7"
+            },
+            {
+                "gene_symbol": "COMP",
+                "gene_name": "cartilage oligomeric matrix protein"
+            },
+            {
+                "gene_symbol": "ERRFI1",
+                "gene_name": "ERBB receptor feedback inhibitor 1"
+            },
+            {
+                "gene_symbol": "CCN2",
+                "gene_name": "cellular communication network factor 2"
+            },
+            {
+                "gene_symbol": "SOX9",
+                "gene_name": "SRY-box transcription factor 9"
+            },
+            {
+                "gene_symbol": "CCN3",
+                "gene_name": "cellular communication network factor 3"
+            },
+            {
+                "gene_symbol": "BMPR1B",
+                "gene_name": "bone morphogenetic protein receptor type 1B"
+            },
+            {
+                "gene_symbol": "LEF1",
+                "gene_name": "lymphoid enhancer binding factor 1"
+            },
+            {
+                "gene_symbol": "HMGA2",
+                "gene_name": "high mobility group AT-hook 2"
+            },
+            {
+                "gene_symbol": "SLC26A2",
+                "gene_name": "solute carrier family 26 member 2"
+            },
+            {
+                "gene_symbol": "MMP16",
+                "gene_name": "matrix metallopeptidase 16"
+            },
+            {
+                "gene_symbol": "MMP14",
+                "gene_name": "matrix metallopeptidase 14"
+            },
+            {
+                "gene_symbol": "STC1",
+                "gene_name": "stanniocalcin 1"
+            },
+            {
+                "gene_symbol": "NPR2",
+                "gene_name": "natriuretic peptide receptor 2"
+            },
+            {
+                "gene_symbol": "DDR2",
+                "gene_name": "discoidin domain receptor tyrosine kinase 2"
+            },
+            {
+                "gene_symbol": "PBXIP1",
+                "gene_name": "PBX homeobox interacting protein 1"
+            },
+            {
+                "gene_symbol": "IHH",
+                "gene_name": "Indian hedgehog signaling molecule"
+            },
+            {
+                "gene_symbol": "SIX2",
+                "gene_name": "SIX homeobox 2"
+            },
+            {
+                "gene_symbol": "GOLGB1",
+                "gene_name": "golgin B1"
+            },
+            {
+                "gene_symbol": "SCUBE2",
+                "gene_name": "signal peptide, CUB domain and EGF like domain containing 2"
+            },
+            {
+                "gene_symbol": "EXT1",
+                "gene_name": "exostosin glycosyltransferase 1"
+            },
+            {
+                "gene_symbol": "BMPR2",
+                "gene_name": "bone morphogenetic protein receptor type 2"
+            },
+            {
+                "gene_symbol": "STIMATE-MUSTN1",
+                "gene_name": "STIMATE-MUSTN1 readthrough"
+            },
+            {
+                "gene_symbol": "MUSTN1",
+                "gene_name": "musculoskeletal, embryonic nuclear protein 1"
+            }
+        ],
+        "pathways": []
+    }
+}
